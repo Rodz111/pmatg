@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/daichi/m_fuma_chef/m_fuma_chef_col2"
+"$alphatest" 1
+    "$nocull" 1
+    "$nodecal" 1
+    "$lightwarptexture" "models/daichi/lightwarpshader"
+} 

@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/godio/ame_amekage/ame_amekage"
+"$alphatest" 1
+    "$nocull" 1
+    "$nodecal" 1
+    "$lightwarptexture" "models/godio/lightwarpshader"
+}
+
+
+
+
+
+
+

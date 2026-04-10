@@ -1,0 +1,14 @@
+UnlitGeneric {
+    "$basetexture" "models/loeve/blade/loeve_gris"
+    "$nocull" "1"
+    "$additive" "1"
+    "$vertexalpha" "1"
+    "$halflambert" "1"
+    "$model" "1"
+    "$pixshader" "toon_test_ps20"
+    "$c0_x" "4.0"
+    "$c0_y" "0.1"
+    "$c0_z" "0.1"
+    "$c0_w" "0.0"
+}
+

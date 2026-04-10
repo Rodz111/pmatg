@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models_props/daichi/atg_lunette/atg_lunette"
+"$alphatest" 1
+    "$nocull" 1
+    "$nodecal" 1
+    "$lightwarptexture" "models/daichi/lightwarpshader"
+}

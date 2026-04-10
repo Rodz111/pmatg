@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/xsiphar_eau_logo_yome"
+    "$translucent" "1"
+}

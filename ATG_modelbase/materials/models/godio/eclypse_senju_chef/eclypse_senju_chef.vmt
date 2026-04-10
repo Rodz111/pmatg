@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/godio/eclypse_senju_chef/eclypse_senju_chef"
+"$alphatest" 1
+    "$nocull" 1
+    "$nodecal" 1
+    "$lightwarptexture" "models/godio/lightwarpshader"
+}
+
+
+
+
+

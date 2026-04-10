@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/godio/goro_fuma_m/t_shirt_fuma"
+"$alphatest" 1
+    "$nocull" 1
+    "$nodecal" 1
+    "$lightwarptexture" "models/godio/lightwarpshader"
+}
+
+
+
+

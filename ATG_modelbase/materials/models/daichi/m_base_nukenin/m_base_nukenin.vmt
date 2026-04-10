@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/daichi/m_base_nukenin/m_base_nukenin"
+	"$nocull" "1"
+	"$bumpmap" "models/loeve_shaders/normal"
+	"$fresnelbumpstrenght" "2"
+	"$lightwarptexture" "models/loeve_shaders/lightwarptexture2"
+
+
+	"$phong" "1"
+
+	"$envmap" ""
+
+	"$basemapalphaphongmask" "0"
+
+	"$selfillum" "1"
+
+        	"$blendtintbybasealpha" "1"  "$blendtintcoloroverbase" "0" 
+
+
+}

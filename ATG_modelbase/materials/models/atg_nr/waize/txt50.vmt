@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+
+{
+    "$basetexture" "models/atg_nr/waize/txt50"
+    "$alphatest" 1
+    "$nocull" 1
+    "$nodecal" 1
+    "$lightwarptexture" "models/atg_nr/waize/lightwarpshader"
+}

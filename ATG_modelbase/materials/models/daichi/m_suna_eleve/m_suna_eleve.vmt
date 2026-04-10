@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/daichi/m_suna_eleve/m_suna_eleve"
+	"$fresnelbumpstrenght" "1"
+	"$lightwarptexture" "models/loeve_shaders/lightwarptexture2"
+
+}

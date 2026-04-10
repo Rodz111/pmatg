@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xsiphar_marque_maudite_1"
+    "$translucent" "1"
+}

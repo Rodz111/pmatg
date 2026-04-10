@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models_props/daichi/m_amekage_dos/m_amekage_dos"
+"$alphatest" 1
+    "$nocull" 1
+    "$nodecal" 1
+    "$lightwarptexture" "models/daichi/lightwarpshader"
+}

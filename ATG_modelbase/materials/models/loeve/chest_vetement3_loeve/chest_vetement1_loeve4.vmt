@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/loeve/chest_vetement1_loeve/chest_vetement1_loeve4"
+	"$alphatest" 1
+	"$nocull" 1
+	"$translucent" 1
+}

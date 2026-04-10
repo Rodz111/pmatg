@@ -1,0 +1,18 @@
+"UnlitGeneric"
+{
+    "$basetexture" "models/loeve/loeve_crystal/loeve_crystal"
+    "$bumpmap" "models/loeve/loeve_p_komyoton/normal"
+	"$lightwarptexture" "models/loeve_shaders/lightwarpshader"
+	"$detail"    "models/loeve_shaders/noise3_loeve"
+	"$detailscale" "5"
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$basetexturetransform"
+			"texturescrollrate" -.23
+			"texturescrollangle" 100
+		}
+	}
+}
+

@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/daichi/m_uchiha_genin/m_uchiha_genin_kono"
+	"$nocull" "1"
+	"$bumpmap" "models/loeve_shaders/normal"
+	"$fresnelbumpstrenght" "1"
+	"$lightwarptexture" "models/loeve_shaders/lightwarptexture2"
+
+
+	"$phong" "0"
+
+	"$envmap" ""
+
+	"$basemapalphaphongmask" "0"
+
+	"$selfillum" "1"
+
+        	"$blendtintbybasealpha" "1"  "$blendtintcoloroverbase" "0" 
+
+}

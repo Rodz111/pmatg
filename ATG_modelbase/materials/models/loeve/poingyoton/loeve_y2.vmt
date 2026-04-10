@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/loeve/poingyoton/loeve_y2"
+	"$lightwarptexture" "models/falko_naruto_foc/lightwarpshader"
+                 "$nocull" "1"
+	"$detail"    "models/falko_naruto_foc/noise3_foc"
+	"$detailscale" "5"
+}

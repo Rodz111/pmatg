@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/skylyxx/ctg/characters/eyes/eyes"
+	"$lightwarptexture" "models/skylyxx/ctg/characters/toon"
+
+	Proxies 
+	{
+		CTGDojutsu
+		{
+			resultVar    $basetexture
+		}
+	}
+}

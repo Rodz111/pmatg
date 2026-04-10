@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/loeve/m_tambour/m_tambour"
+	"$lightwarptexture" "models/loeve_shaders/lightwarpshader"
+                "$nocull" "1"
+                "$alphatest" "1"
+	"$detail"    "models/loeve_shaders/noise3_loeve"
+	"$detailscale" "5"
+}

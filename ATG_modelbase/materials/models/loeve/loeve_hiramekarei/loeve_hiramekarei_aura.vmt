@@ -1,0 +1,18 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/loeve/loeve_hiramekarei/loeve_hiramekarei_aura"
+    "$additive" "1"
+    "$alpha" "0.35"
+
+
+    "Proxies"
+    {
+        "TextureScroll"
+        {
+            "texturescrollvar" "$basetexturetransform"
+            "texturescrollrate" 1
+            "texturescrollangle" 1
+        }
+    }
+}
+

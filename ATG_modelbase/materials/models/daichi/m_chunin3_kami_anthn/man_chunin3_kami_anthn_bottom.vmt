@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+    "$basetexture" "models/daichi/m_chunin3_kami_anthn/man_chunin3_kami_anthn_bottom"
+"$alphatest" 1
+    "$nocull" 1
+    "$nodecal" 1
+    "$lightwarptexture" "models/daichi/lightwarpshader"
+}
+

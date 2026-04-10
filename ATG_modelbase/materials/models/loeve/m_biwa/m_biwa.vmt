@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/loeve/m_biwa/m_biwa"
+	"$lightwarptexture" "models/loeve_shaders/lightwarpshader"
+                "$nocull" "1"
+                "$alphatest" "1"
+	"$detail"    "models/loeve_shaders/noise3_loeve"
+	"$detailscale" "5"
+}

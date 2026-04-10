@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/xsiphar_nara_cicatrice"
+    "$translucent" "1"
+}

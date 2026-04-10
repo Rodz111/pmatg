@@ -1,0 +1,27 @@
+"UnlitGeneric"
+{
+    "$basetexture" "models/loeve/m_biwa/m_biwa_aura"
+    "$additive" "1"
+    "$translucent" "1"
+    "$alpha" "0.35"
+    "$color" "[0.1 0.6 1.0]"
+    "$nocull" "1"
+
+    "Proxies"
+    {
+        "TextureScroll"
+        {
+            "texturescrollvar" "$basetexturetransform"
+            "texturescrollrate" 0.20
+            "texturescrollangle" 9
+        }
+
+        "Sine"
+        {
+            "resultVar" "$alpha"
+            "sinemin" "0.25"             
+            "sinemax" "0.45"             
+            "sineperiod" "15"           
+        }
+    }
+}

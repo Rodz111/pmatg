@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/loeve/loeve_samehada/loeve_samehada"
+	"$lightwarptexture" "models/solve/lightwarpshader"
+                "$alphatest" "0"
+                "$nocull" "1"
+	"$detail"    "models/loeve_shaders/noise3_loeve"
+	"$detailscale" "5"
+}

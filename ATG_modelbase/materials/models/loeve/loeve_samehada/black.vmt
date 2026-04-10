@@ -1,0 +1,13 @@
+"UnlitGeneric"
+{
+    "$basetexture" "models/loeve/loeve_samehada/black"
+    "$selfillum" "1"
+    "$translucent" "1"
+
+    "Proxies"
+    {
+        "ForceBloom"
+        {
+        }
+    }
+}

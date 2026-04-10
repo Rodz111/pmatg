@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "models/goro/logo_kiri_genin"
+"$alphatest" 1
+    "$nocull" 1
+    "$nodecal" 1
+    "$lightwarptexture" "models/godio/lightwarpshader"
+}

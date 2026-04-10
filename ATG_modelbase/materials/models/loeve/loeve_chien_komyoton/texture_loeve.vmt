@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/loeve/loeve_chien_komyoton/texture_loeve"
+    "$additive" "1"             
+    "$translucent" "1"
+    "$selfillum" "1"
+    "$surfaceprop" "default"
+}

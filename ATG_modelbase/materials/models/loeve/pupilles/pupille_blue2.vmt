@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/loeve/pupilles/pupille_blue2"
+	"$translucent" 1
+}

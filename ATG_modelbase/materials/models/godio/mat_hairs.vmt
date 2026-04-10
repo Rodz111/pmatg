@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/skylyxx/ctg/characters/mat_proxy"
+
+	Proxies 
+	{
+		CTGHairsColor
+		{
+			resultVar    $color2
+			default        1 1 1
+		}
+	}
+}

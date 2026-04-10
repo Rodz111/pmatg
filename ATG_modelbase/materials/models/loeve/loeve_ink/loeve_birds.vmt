@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/loeve/loeve_ink/loeve_birds"
+	"$lightwarptexture" "models/loeve_shaders/lightwarpshader"
+                "$alphatest" "0"
+                "$nocull" "1"
+}

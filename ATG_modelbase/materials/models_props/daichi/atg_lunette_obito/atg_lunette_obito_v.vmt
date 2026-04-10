@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models_props/daichi/atg_lunette_obito/atg_lunette_obito_v"
+	"$translucent" 1
+}

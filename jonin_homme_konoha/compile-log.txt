@@ -1,0 +1,696 @@
+// Created by Crowbar 0.74
+
+  Compiling "jonin_neutre\jonin_neutre.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\rodzl\desktop\travail\jonin_homme_konoha\jonin_neutre\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\"
+      g_path:  "jonin_neutre.qc"
+      Building binary model files...
+      Working on "jonin_neutre.qc"
+      SMD MODEL jonin_neutre.smd
+      SMD MODEL jonin_neutre_1.smd
+      SMD MODEL jonin_neutre_2.smd
+      SMD MODEL jonin_neutre_3.smd
+      Processing $shadowlod
+      SMD MODEL anims/reference_male.smd
+      SMD MODEL anims/proportions.smd
+      SMD MODEL ../physics.smd
+      WARNING: model has too many verts, cutting into multiple models
+      Processing LOD for material: mat_skin
+      Lod 1: vertexes: 1088 (4 new)
+      Lod 2: vertexes: 1104 (16 new)
+      Lod 3: vertexes: 1936 (832 new)
+      Processing LOD for material: genin_g_neutre_white
+      Lod 1: vertexes: 32690 (9993 new)
+      Lod 2: vertexes: 38919 (6229 new)
+      Lod 3: vertexes: 49326 (10407 new)
+      Processing LOD for material: mat_skin
+      Processing LOD for material: genin_g_neutre_white
+      Lod 2: vertexes: 15520 (1912 new)
+      Lod 3: vertexes: 27094 (11574 new)
+      Processing jointed collision model
+      ValveBiped.Bip01_Pelvis  ( 88 verts, 1 convex elements) volume: 589.58
+      ValveBiped.Bip01_L_Thigh ( 56 verts, 1 convex elements) volume: 703.09
+      ValveBiped.Bip01_L_Calf  ( 65 verts, 1 convex elements) volume: 399.90
+      ValveBiped.Bip01_L_Foot  ( 49 verts, 1 convex elements) volume: 119.04
+      ValveBiped.Bip01_R_Thigh ( 54 verts, 1 convex elements) volume: 696.89
+      ValveBiped.Bip01_R_Calf  ( 59 verts, 1 convex elements) volume: 388.63
+      ValveBiped.Bip01_R_Foot  ( 47 verts, 1 convex elements) volume: 135.57
+      ValveBiped.Bip01_Spine2  (110 verts, 1 convex elements) volume: 1100.68
+      WARNING: PERFORMANCE (): Collision model will not support the fastest tracing code
+      ValveBiped.Bip01_Spine4  (145 verts, 1 convex elements) volume: 1659.36
+      ValveBiped.Bip01_Head1   ( 66 verts, 1 convex elements) volume: 242.72
+      ValveBiped.Bip01_L_Clavicle ( 29 verts, 1 convex elements) volume: 31.42
+      ValveBiped.Bip01_L_UpperArm ( 59 verts, 1 convex elements) volume: 143.08
+      ValveBiped.Bip01_L_Forearm ( 58 verts, 1 convex elements) volume: 148.17
+      ValveBiped.Bip01_L_Hand  ( 28 verts, 1 convex elements) volume: 27.51
+      ValveBiped.Bip01_R_Clavicle ( 29 verts, 1 convex elements) volume: 30.95
+      ValveBiped.Bip01_R_UpperArm ( 71 verts, 1 convex elements) volume: 135.39
+      ValveBiped.Bip01_R_Forearm ( 57 verts, 1 convex elements) volume: 150.08
+      ValveBiped.Bip01_R_Hand  ( 27 verts, 1 convex elements) volume: 27.42
+      Collision model completed.
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/jonin_neutre.mdl:
+      bones        21360 bytes (74)
+         animation       x       y       ips    angle
+      animations    2656 bytes (3 anims) (3 frames) [0:01]
+      sequences      944 bytes (3 seq) 
+      ik/pose        856 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       144 bytes
+      keyvalues        0 bytes
+      bone transforms    10128 bytes
+      bone flex driver       0 bytes
+      Collision model volume 6729.50 in^3
+      collision        0 bytes
+      total        38588
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/jonin_neutre.vvd:
+      vertices   2367648 bytes (49326 vertices)
+      vertices   1300512 bytes (27094 vertices)
+      tangents    789216 bytes (49326 vertices)
+      tangents    433504 bytes (27094 vertices)
+      total      4890944 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/jonin_neutre.dx90.vtx":
+      body parts:        16 bytes
+      models:           136 bytes
+      model LODs:       120 bytes
+      meshes:           180 bytes
+      strip groups:     495 bytes
+      strips:           560 bytes
+      verts:        1562364 bytes
+      indices:      1774626 bytes
+      bone changes:    3448 bytes
+      everything:   3341861 bytes
+      
+      Completed "jonin_neutre.qc"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\jonin_neutre.dx90.vtx" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\jonin_neutre.mdl" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\jonin_neutre.phy" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\jonin_neutre.vvd" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Deleted empty temporary compile folder "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models".
+  ... Compiling "jonin_neutre\jonin_neutre.qc" finished. Check above for any errors.
+
+  Compiling "jonin_neutre_white\jonin_neutre_white.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\rodzl\desktop\travail\jonin_homme_konoha\jonin_neutre_white\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\"
+      g_path:  "jonin_neutre_white.qc"
+      Building binary model files...
+      Working on "jonin_neutre_white.qc"
+      SMD MODEL jonin_neutre_white.smd
+      SMD MODEL jonin_neutre_white_1.smd
+      SMD MODEL jonin_neutre_white_2.smd
+      SMD MODEL jonin_neutre_white_3.smd
+      Processing $shadowlod
+      SMD MODEL anims/reference_male.smd
+      SMD MODEL anims/proportions.smd
+      SMD MODEL ../physics.smd
+      WARNING: model has too many verts, cutting into multiple models
+      Processing LOD for material: mat_skin
+      Lod 1: vertexes: 1088 (4 new)
+      Lod 2: vertexes: 1104 (16 new)
+      Lod 3: vertexes: 1932 (828 new)
+      Processing LOD for material: genin_g_neutre_white
+      Lod 1: vertexes: 32217 (9524 new)
+      Lod 2: vertexes: 38287 (6070 new)
+      Lod 3: vertexes: 48405 (10118 new)
+      Processing LOD for material: mat_skin
+      Processing LOD for material: genin_g_neutre_white
+      Lod 2: vertexes: 15133 (1896 new)
+      Lod 3: vertexes: 26603 (11470 new)
+      Processing jointed collision model
+      ValveBiped.Bip01_Pelvis  ( 88 verts, 1 convex elements) volume: 589.58
+      ValveBiped.Bip01_L_Thigh ( 56 verts, 1 convex elements) volume: 703.09
+      ValveBiped.Bip01_L_Calf  ( 65 verts, 1 convex elements) volume: 399.90
+      ValveBiped.Bip01_L_Foot  ( 49 verts, 1 convex elements) volume: 119.04
+      ValveBiped.Bip01_R_Thigh ( 54 verts, 1 convex elements) volume: 696.89
+      ValveBiped.Bip01_R_Calf  ( 59 verts, 1 convex elements) volume: 388.63
+      ValveBiped.Bip01_R_Foot  ( 47 verts, 1 convex elements) volume: 135.57
+      ValveBiped.Bip01_Spine2  (110 verts, 1 convex elements) volume: 1100.68
+      WARNING: PERFORMANCE (): Collision model will not support the fastest tracing code
+      ValveBiped.Bip01_Spine4  (145 verts, 1 convex elements) volume: 1659.36
+      ValveBiped.Bip01_Head1   ( 66 verts, 1 convex elements) volume: 242.72
+      ValveBiped.Bip01_L_Clavicle ( 29 verts, 1 convex elements) volume: 31.42
+      ValveBiped.Bip01_L_UpperArm ( 59 verts, 1 convex elements) volume: 143.08
+      ValveBiped.Bip01_L_Forearm ( 58 verts, 1 convex elements) volume: 148.17
+      ValveBiped.Bip01_L_Hand  ( 28 verts, 1 convex elements) volume: 27.51
+      ValveBiped.Bip01_R_Clavicle ( 29 verts, 1 convex elements) volume: 30.95
+      ValveBiped.Bip01_R_UpperArm ( 71 verts, 1 convex elements) volume: 135.39
+      ValveBiped.Bip01_R_Forearm ( 57 verts, 1 convex elements) volume: 150.08
+      ValveBiped.Bip01_R_Hand  ( 27 verts, 1 convex elements) volume: 27.42
+      Collision model completed.
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/jonin_neutre_white.mdl:
+      bones        21360 bytes (74)
+         animation       x       y       ips    angle
+      animations    2656 bytes (3 anims) (3 frames) [0:01]
+      sequences      944 bytes (3 seq) 
+      ik/pose        856 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       144 bytes
+      keyvalues        0 bytes
+      bone transforms    10128 bytes
+      bone flex driver       0 bytes
+      Collision model volume 6729.50 in^3
+      collision        0 bytes
+      total        38600
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/jonin_neutre_white.vvd:
+      vertices   2323440 bytes (48405 vertices)
+      vertices   1276944 bytes (26603 vertices)
+      tangents    774480 bytes (48405 vertices)
+      tangents    425648 bytes (26603 vertices)
+      total      4800576 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/jonin_neutre_white.dx90.vtx":
+      body parts:        16 bytes
+      models:           136 bytes
+      model LODs:       120 bytes
+      meshes:           180 bytes
+      strip groups:     495 bytes
+      strips:           560 bytes
+      verts:        1536372 bytes
+      indices:      1749276 bytes
+      bone changes:    3344 bytes
+      everything:   3290415 bytes
+      
+      Completed "jonin_neutre_white.qc"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\jonin_neutre_white.dx90.vtx" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\jonin_neutre_white.mdl" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\jonin_neutre_white.phy" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\jonin_neutre_white.vvd" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Deleted empty temporary compile folder "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models".
+  ... Compiling "jonin_neutre_white\jonin_neutre_white.qc" finished. Check above for any errors.
+
+  Compiling "konoha_toku_jonin\konoha_toku_jonin.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\rodzl\desktop\travail\jonin_homme_konoha\konoha_toku_jonin\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\"
+      g_path:  "konoha_toku_jonin.qc"
+      Building binary model files...
+      Working on "konoha_toku_jonin.qc"
+      SMD MODEL konoha_toku_jonin.smd
+      SMD MODEL konoha_toku_jonin_1.smd
+      SMD MODEL konoha_toku_jonin_2.smd
+      SMD MODEL konoha_toku_jonin_3.smd
+      Processing $shadowlod
+      SMD MODEL anims/reference_male.smd
+      SMD MODEL anims/proportions.smd
+      SMD MODEL ../physics.smd
+      WARNING: model has too many verts, cutting into multiple models
+      Processing LOD for material: tenue_hc_tk
+      Lod 1: vertexes: 24182 (2339 new)
+      Lod 2: vertexes: 27404 (3222 new)
+      Lod 3: vertexes: 36169 (8765 new)
+      Processing LOD for material: mat_skin
+      Lod 1: vertexes: 37086 (917 new)
+      Lod 2: vertexes: 37163 (77 new)
+      Lod 3: vertexes: 37740 (577 new)
+      Processing LOD for material: logo_konoha_toku
+      Lod 1: vertexes: 37764 (24 new)
+      Lod 3: vertexes: 37784 (20 new)
+      Processing LOD for material: logo_konoha_toku_dos
+      Lod 1: vertexes: 37968 (184 new)
+      Lod 2: vertexes: 38014 (46 new)
+      Lod 3: vertexes: 38058 (44 new)
+      Processing LOD for material: tenue_hc_tk
+      Lod 2: vertexes: 5364 (1267 new)
+      Lod 3: vertexes: 9374 (4010 new)
+      Processing LOD for material: mat_skin
+      Lod 2: vertexes: 10301 (10 new)
+      Lod 3: vertexes: 11207 (906 new)
+      Processing LOD for material: logo_konoha_toku
+      Lod 3: vertexes: 11255 (24 new)
+      Processing LOD for material: logo_konoha_toku_dos
+      Lod 3: vertexes: 12377 (561 new)
+      Processing jointed collision model
+      ValveBiped.Bip01_Pelvis  ( 88 verts, 1 convex elements) volume: 589.58
+      ValveBiped.Bip01_L_Thigh ( 56 verts, 1 convex elements) volume: 703.09
+      ValveBiped.Bip01_L_Calf  ( 65 verts, 1 convex elements) volume: 399.90
+      ValveBiped.Bip01_L_Foot  ( 49 verts, 1 convex elements) volume: 119.04
+      ValveBiped.Bip01_R_Thigh ( 54 verts, 1 convex elements) volume: 696.89
+      ValveBiped.Bip01_R_Calf  ( 59 verts, 1 convex elements) volume: 388.63
+      ValveBiped.Bip01_R_Foot  ( 47 verts, 1 convex elements) volume: 135.57
+      ValveBiped.Bip01_Spine2  (110 verts, 1 convex elements) volume: 1100.68
+      WARNING: PERFORMANCE (): Collision model will not support the fastest tracing code
+      ValveBiped.Bip01_Spine4  (145 verts, 1 convex elements) volume: 1659.36
+      ValveBiped.Bip01_Head1   ( 66 verts, 1 convex elements) volume: 242.72
+      ValveBiped.Bip01_L_Clavicle ( 29 verts, 1 convex elements) volume: 31.42
+      ValveBiped.Bip01_L_UpperArm ( 59 verts, 1 convex elements) volume: 143.08
+      ValveBiped.Bip01_L_Forearm ( 58 verts, 1 convex elements) volume: 148.17
+      ValveBiped.Bip01_L_Hand  ( 28 verts, 1 convex elements) volume: 27.51
+      ValveBiped.Bip01_R_Clavicle ( 29 verts, 1 convex elements) volume: 30.95
+      ValveBiped.Bip01_R_UpperArm ( 71 verts, 1 convex elements) volume: 135.39
+      ValveBiped.Bip01_R_Forearm ( 57 verts, 1 convex elements) volume: 150.08
+      ValveBiped.Bip01_R_Hand  ( 27 verts, 1 convex elements) volume: 27.42
+      Collision model completed.
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/konoha_toku_jonin.mdl:
+      bones        21224 bytes (74)
+         animation       x       y       ips    angle
+      animations    2664 bytes (3 anims) (3 frames) [0:01]
+      sequences      944 bytes (3 seq) 
+      ik/pose        856 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       276 bytes
+      keyvalues        0 bytes
+      bone transforms    10128 bytes
+      bone flex driver       0 bytes
+      Collision model volume 6729.50 in^3
+      collision        0 bytes
+      total        39096
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/konoha_toku_jonin.vvd:
+      vertices   1826784 bytes (38058 vertices)
+      vertices    594096 bytes (12377 vertices)
+      tangents    608928 bytes (38058 vertices)
+      tangents    198032 bytes (12377 vertices)
+      total      3227904 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/konoha_toku_jonin.dx90.vtx":
+      body parts:        16 bytes
+      models:           136 bytes
+      model LODs:       120 bytes
+      meshes:           360 bytes
+      strip groups:    1221 bytes
+      strips:          1365 bytes
+      verts:        1031625 bytes
+      indices:      1178250 bytes
+      bone changes:    4712 bytes
+      everything:   2217721 bytes
+      
+      Completed "konoha_toku_jonin.qc"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\konoha_toku_jonin.dx90.vtx" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\konoha_toku_jonin.mdl" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\konoha_toku_jonin.phy" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\konoha_toku_jonin.vvd" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Deleted empty temporary compile folder "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models".
+  ... Compiling "konoha_toku_jonin\konoha_toku_jonin.qc" finished. Check above for any errors.
+
+  Compiling "kono_hc\kono_hc.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\rodzl\desktop\travail\jonin_homme_konoha\kono_hc\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\"
+      g_path:  "kono_hc.qc"
+      Building binary model files...
+      Working on "kono_hc.qc"
+      SMD MODEL kono_hc.smd
+      SMD MODEL kono_hc_1.smd
+      SMD MODEL kono_hc_2.smd
+      SMD MODEL kono_hc_3.smd
+      Processing $shadowlod
+      SMD MODEL anims/reference_male.smd
+      SMD MODEL anims/proportions.smd
+      SMD MODEL ../physics.smd
+      WARNING: model has too many verts, cutting into multiple models
+      Processing LOD for material: kono_hc
+      Lod 1: vertexes: 19660 (196 new)
+      Lod 2: vertexes: 21360 (1700 new)
+      Lod 3: vertexes: 27740 (6380 new)
+      Processing LOD for material: mat_skin
+      Lod 1: vertexes: 30788 (669 new)
+      Lod 2: vertexes: 31855 (1067 new)
+      Lod 3: vertexes: 33102 (1247 new)
+      Processing LOD for material: kono_hc
+      Processing LOD for material: mat_skin
+      Lod 2: vertexes: 1101 (95 new)
+      Lod 3: vertexes: 2107 (1006 new)
+      Processing jointed collision model
+      ValveBiped.Bip01_Pelvis  ( 88 verts, 1 convex elements) volume: 589.58
+      ValveBiped.Bip01_L_Thigh ( 56 verts, 1 convex elements) volume: 703.09
+      ValveBiped.Bip01_L_Calf  ( 65 verts, 1 convex elements) volume: 399.90
+      ValveBiped.Bip01_L_Foot  ( 49 verts, 1 convex elements) volume: 119.04
+      ValveBiped.Bip01_R_Thigh ( 54 verts, 1 convex elements) volume: 696.89
+      ValveBiped.Bip01_R_Calf  ( 59 verts, 1 convex elements) volume: 388.63
+      ValveBiped.Bip01_R_Foot  ( 47 verts, 1 convex elements) volume: 135.57
+      ValveBiped.Bip01_Spine2  (110 verts, 1 convex elements) volume: 1100.68
+      WARNING: PERFORMANCE (): Collision model will not support the fastest tracing code
+      ValveBiped.Bip01_Spine4  (145 verts, 1 convex elements) volume: 1659.36
+      ValveBiped.Bip01_Head1   ( 66 verts, 1 convex elements) volume: 242.72
+      ValveBiped.Bip01_L_Clavicle ( 29 verts, 1 convex elements) volume: 31.42
+      ValveBiped.Bip01_L_UpperArm ( 59 verts, 1 convex elements) volume: 143.08
+      ValveBiped.Bip01_L_Forearm ( 58 verts, 1 convex elements) volume: 148.17
+      ValveBiped.Bip01_L_Hand  ( 28 verts, 1 convex elements) volume: 27.51
+      ValveBiped.Bip01_R_Clavicle ( 29 verts, 1 convex elements) volume: 30.95
+      ValveBiped.Bip01_R_UpperArm ( 71 verts, 1 convex elements) volume: 135.39
+      ValveBiped.Bip01_R_Forearm ( 57 verts, 1 convex elements) volume: 150.08
+      ValveBiped.Bip01_R_Hand  ( 27 verts, 1 convex elements) volume: 27.42
+      Collision model completed.
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/kono_hc.mdl:
+      bones        21508 bytes (75)
+         animation       x       y       ips    angle
+      animations    2652 bytes (3 anims) (3 frames) [0:01]
+      sequences      948 bytes (3 seq) 
+      ik/pose        856 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       144 bytes
+      keyvalues        0 bytes
+      bone transforms    10264 bytes
+      bone flex driver       0 bytes
+      Collision model volume 6729.50 in^3
+      collision        0 bytes
+      total        38864
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/kono_hc.vvd:
+      vertices   1588896 bytes (33102 vertices)
+      vertices    101136 bytes (2107 vertices)
+      tangents    529632 bytes (33102 vertices)
+      tangents     33712 bytes (2107 vertices)
+      total      2253440 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/kono_hc.dx90.vtx":
+      body parts:        16 bytes
+      models:           136 bytes
+      model LODs:       120 bytes
+      meshes:           180 bytes
+      strip groups:     495 bytes
+      strips:           525 bytes
+      verts:         733491 bytes
+      indices:       828702 bytes
+      bone changes:    2872 bytes
+      everything:   1566453 bytes
+      
+      Completed "kono_hc.qc"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\kono_hc.dx90.vtx" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\kono_hc.mdl" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\kono_hc.phy" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\kono_hc.vvd" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Deleted empty temporary compile folder "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models".
+  ... Compiling "kono_hc\kono_hc.qc" finished. Check above for any errors.
+
+  Compiling "senju_a\senju_a.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\rodzl\desktop\travail\jonin_homme_konoha\senju_a\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\"
+      g_path:  "senju_a.qc"
+      Building binary model files...
+      Working on "senju_a.qc"
+      SMD MODEL senju_a.smd
+      SMD MODEL senju_a_1.smd
+      SMD MODEL senju_a_2.smd
+      SMD MODEL senju_a_3.smd
+      Processing $shadowlod
+      SMD MODEL anims/reference_male.smd
+      SMD MODEL anims/proportions.smd
+      SMD MODEL ../physics.smd
+      Processing LOD for material: senju_a
+      Lod 1: vertexes: 16695 (286 new)
+      Lod 2: vertexes: 18119 (1424 new)
+      Lod 3: vertexes: 23709 (5590 new)
+      Processing LOD for material: mat_skin
+      Lod 1: vertexes: 27057 (6 new)
+      Lod 2: vertexes: 28073 (1016 new)
+      Lod 3: vertexes: 29425 (1352 new)
+      Processing jointed collision model
+      ValveBiped.Bip01_Pelvis  ( 88 verts, 1 convex elements) volume: 589.58
+      ValveBiped.Bip01_L_Thigh ( 56 verts, 1 convex elements) volume: 703.09
+      ValveBiped.Bip01_L_Calf  ( 65 verts, 1 convex elements) volume: 399.90
+      ValveBiped.Bip01_L_Foot  ( 49 verts, 1 convex elements) volume: 119.04
+      ValveBiped.Bip01_R_Thigh ( 54 verts, 1 convex elements) volume: 696.89
+      ValveBiped.Bip01_R_Calf  ( 59 verts, 1 convex elements) volume: 388.63
+      ValveBiped.Bip01_R_Foot  ( 47 verts, 1 convex elements) volume: 135.57
+      ValveBiped.Bip01_Spine2  (110 verts, 1 convex elements) volume: 1100.68
+      WARNING: PERFORMANCE (): Collision model will not support the fastest tracing code
+      ValveBiped.Bip01_Spine4  (145 verts, 1 convex elements) volume: 1659.36
+      ValveBiped.Bip01_Head1   ( 66 verts, 1 convex elements) volume: 242.72
+      ValveBiped.Bip01_L_Clavicle ( 29 verts, 1 convex elements) volume: 31.42
+      ValveBiped.Bip01_L_UpperArm ( 59 verts, 1 convex elements) volume: 143.08
+      ValveBiped.Bip01_L_Forearm ( 58 verts, 1 convex elements) volume: 148.17
+      ValveBiped.Bip01_L_Hand  ( 28 verts, 1 convex elements) volume: 27.51
+      ValveBiped.Bip01_R_Clavicle ( 29 verts, 1 convex elements) volume: 30.95
+      ValveBiped.Bip01_R_UpperArm ( 71 verts, 1 convex elements) volume: 135.39
+      ValveBiped.Bip01_R_Forearm ( 57 verts, 1 convex elements) volume: 150.08
+      ValveBiped.Bip01_R_Hand  ( 27 verts, 1 convex elements) volume: 27.42
+      Collision model completed.
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/senju_a.mdl:
+      bones        21508 bytes (75)
+         animation       x       y       ips    angle
+      animations    2652 bytes (3 anims) (3 frames) [0:01]
+      sequences      948 bytes (3 seq) 
+      ik/pose        692 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       144 bytes
+      keyvalues        0 bytes
+      bone transforms    10264 bytes
+      bone flex driver       0 bytes
+      Collision model volume 6729.50 in^3
+      collision        0 bytes
+      total        38460
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/senju_a.vvd:
+      vertices   1412400 bytes (29425 vertices)
+      tangents    470800 bytes (29425 vertices)
+      total      1883264 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/senju_a.dx90.vtx":
+      body parts:         8 bytes
+      models:            68 bytes
+      model LODs:        60 bytes
+      meshes:            90 bytes
+      strip groups:     330 bytes
+      strips:           350 bytes
+      verts:         601704 bytes
+      indices:       684444 bytes
+      bone changes:    2504 bytes
+      everything:   1289534 bytes
+      
+      Completed "senju_a.qc"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\senju_a.dx90.vtx" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\senju_a.mdl" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\senju_a.phy" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\senju_a.vvd" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Deleted empty temporary compile folder "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models".
+  ... Compiling "senju_a\senju_a.qc" finished. Check above for any errors.
+
+  Compiling "toku_jonin_feu\toku_jonin_feu.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\rodzl\desktop\travail\jonin_homme_konoha\toku_jonin_feu\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\"
+      g_path:  "toku_jonin_feu.qc"
+      Building binary model files...
+      Working on "toku_jonin_feu.qc"
+      SMD MODEL toku_jonin_feu.smd
+      SMD MODEL toku_jonin_feu_1.smd
+      SMD MODEL toku_jonin_feu_2.smd
+      SMD MODEL toku_jonin_feu_3.smd
+      Processing $shadowlod
+      SMD MODEL anims/reference_male.smd
+      SMD MODEL anims/proportions.smd
+      SMD MODEL ../physics.smd
+      WARNING: model has too many verts, cutting into multiple models
+      Processing LOD for material: genin_g_neutre_white
+      Lod 1: vertexes: 32276 (10433 new)
+      Lod 2: vertexes: 38440 (6164 new)
+      Lod 3: vertexes: 49013 (10573 new)
+      Processing LOD for material: MI_CHR_Man_Armor_02
+      Lod 1: vertexes: 49079 (66 new)
+      Lod 2: vertexes: 49091 (12 new)
+      Processing LOD for material: mat_skin
+      Lod 1: vertexes: 50427 (1336 new)
+      Lod 2: vertexes: 50576 (149 new)
+      Lod 3: vertexes: 51664 (1088 new)
+      Processing LOD for material: logo_feu_armure
+      Lod 1: vertexes: 51943 (279 new)
+      Lod 2: vertexes: 51999 (56 new)
+      Lod 3: vertexes: 52085 (86 new)
+      Processing LOD for material: genin_g_neutre_white
+      Lod 2: vertexes: 17787 (6439 new)
+      Lod 3: vertexes: 26003 (8216 new)
+      Processing LOD for material: MI_CHR_Man_Armor_02
+      Lod 3: vertexes: 26127 (54 new)
+      Processing LOD for material: mat_skin
+      Lod 2: vertexes: 27603 (10 new)
+      Lod 3: vertexes: 29058 (1455 new)
+      Processing LOD for material: logo_feu_armure
+      Lod 3: vertexes: 29972 (457 new)
+      Processing jointed collision model
+      ValveBiped.Bip01_Pelvis  ( 88 verts, 1 convex elements) volume: 589.58
+      ValveBiped.Bip01_L_Thigh ( 56 verts, 1 convex elements) volume: 703.09
+      ValveBiped.Bip01_L_Calf  ( 65 verts, 1 convex elements) volume: 399.90
+      ValveBiped.Bip01_L_Foot  ( 49 verts, 1 convex elements) volume: 119.04
+      ValveBiped.Bip01_R_Thigh ( 54 verts, 1 convex elements) volume: 696.89
+      ValveBiped.Bip01_R_Calf  ( 59 verts, 1 convex elements) volume: 388.63
+      ValveBiped.Bip01_R_Foot  ( 47 verts, 1 convex elements) volume: 135.57
+      ValveBiped.Bip01_Spine2  (110 verts, 1 convex elements) volume: 1100.68
+      WARNING: PERFORMANCE (): Collision model will not support the fastest tracing code
+      ValveBiped.Bip01_Spine4  (145 verts, 1 convex elements) volume: 1659.36
+      ValveBiped.Bip01_Head1   ( 66 verts, 1 convex elements) volume: 242.72
+      ValveBiped.Bip01_L_Clavicle ( 29 verts, 1 convex elements) volume: 31.42
+      ValveBiped.Bip01_L_UpperArm ( 59 verts, 1 convex elements) volume: 143.08
+      ValveBiped.Bip01_L_Forearm ( 58 verts, 1 convex elements) volume: 148.17
+      ValveBiped.Bip01_L_Hand  ( 28 verts, 1 convex elements) volume: 27.51
+      ValveBiped.Bip01_R_Clavicle ( 29 verts, 1 convex elements) volume: 30.95
+      ValveBiped.Bip01_R_UpperArm ( 71 verts, 1 convex elements) volume: 135.39
+      ValveBiped.Bip01_R_Forearm ( 57 verts, 1 convex elements) volume: 150.08
+      ValveBiped.Bip01_R_Hand  ( 27 verts, 1 convex elements) volume: 27.42
+      Collision model completed.
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/toku_jonin_feu.mdl:
+      bones        21008 bytes (73)
+         animation       x       y       ips    angle
+      animations    2656 bytes (3 anims) (3 frames) [0:01]
+      sequences      940 bytes (3 seq) 
+      ik/pose        856 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       276 bytes
+      keyvalues        0 bytes
+      bone transforms     9992 bytes
+      bone flex driver       0 bytes
+      Collision model volume 6729.50 in^3
+      collision        0 bytes
+      total        38720
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/toku_jonin_feu.vvd:
+      vertices   2500080 bytes (52085 vertices)
+      vertices   1438656 bytes (29972 vertices)
+      tangents    833360 bytes (52085 vertices)
+      tangents    479552 bytes (29972 vertices)
+      total      5251712 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/toku_jonin_feu.dx90.vtx":
+      body parts:        16 bytes
+      models:           136 bytes
+      model LODs:       120 bytes
+      meshes:           360 bytes
+      strip groups:    1155 bytes
+      strips:          1295 bytes
+      verts:        1514214 bytes
+      indices:      1730712 bytes
+      bone changes:    5248 bytes
+      everything:   3253172 bytes
+      
+      Completed "toku_jonin_feu.qc"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\toku_jonin_feu.dx90.vtx" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\toku_jonin_feu.mdl" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\toku_jonin_feu.phy" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\toku_jonin_feu.vvd" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Deleted empty temporary compile folder "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models".
+  ... Compiling "toku_jonin_feu\toku_jonin_feu.qc" finished. Check above for any errors.
+
+  Compiling "toku_jonin_feu_white\toku_jonin_feu_white.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\rodzl\desktop\travail\jonin_homme_konoha\toku_jonin_feu_white\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\"
+      g_path:  "toku_jonin_feu_white.qc"
+      Building binary model files...
+      Working on "toku_jonin_feu_white.qc"
+      SMD MODEL toku_jonin_feu_white.smd
+      SMD MODEL toku_jonin_feu_white_1.smd
+      SMD MODEL toku_jonin_feu_white_2.smd
+      SMD MODEL toku_jonin_feu_white_3.smd
+      Processing $shadowlod
+      SMD MODEL anims/reference_male.smd
+      SMD MODEL anims/proportions.smd
+      SMD MODEL ../physics.smd
+      WARNING: model has too many verts, cutting into multiple models
+      Processing LOD for material: genin_g_neutre_white
+      Lod 1: vertexes: 32640 (10797 new)
+      Lod 2: vertexes: 38921 (6281 new)
+      Lod 3: vertexes: 49575 (10654 new)
+      Processing LOD for material: MI_CHR_Man_Armor_02
+      Lod 1: vertexes: 49641 (66 new)
+      Lod 2: vertexes: 49653 (12 new)
+      Processing LOD for material: mat_skin
+      Lod 1: vertexes: 50989 (1336 new)
+      Lod 2: vertexes: 51137 (148 new)
+      Lod 3: vertexes: 52225 (1088 new)
+      Processing LOD for material: logo_feu_armure_white
+      Lod 1: vertexes: 52508 (283 new)
+      Lod 2: vertexes: 52564 (56 new)
+      Lod 3: vertexes: 52650 (86 new)
+      Processing LOD for material: genin_g_neutre_white
+      Lod 2: vertexes: 17857 (6491 new)
+      Lod 3: vertexes: 25653 (7796 new)
+      Processing LOD for material: MI_CHR_Man_Armor_02
+      Lod 3: vertexes: 25777 (54 new)
+      Processing LOD for material: mat_skin
+      Lod 2: vertexes: 27253 (10 new)
+      Lod 3: vertexes: 28708 (1455 new)
+      Processing LOD for material: logo_feu_armure_white
+      Lod 3: vertexes: 29622 (457 new)
+      Processing jointed collision model
+      ValveBiped.Bip01_Pelvis  ( 88 verts, 1 convex elements) volume: 589.58
+      ValveBiped.Bip01_L_Thigh ( 56 verts, 1 convex elements) volume: 703.09
+      ValveBiped.Bip01_L_Calf  ( 65 verts, 1 convex elements) volume: 399.90
+      ValveBiped.Bip01_L_Foot  ( 49 verts, 1 convex elements) volume: 119.04
+      ValveBiped.Bip01_R_Thigh ( 54 verts, 1 convex elements) volume: 696.89
+      ValveBiped.Bip01_R_Calf  ( 59 verts, 1 convex elements) volume: 388.63
+      ValveBiped.Bip01_R_Foot  ( 47 verts, 1 convex elements) volume: 135.57
+      ValveBiped.Bip01_Spine2  (110 verts, 1 convex elements) volume: 1100.68
+      WARNING: PERFORMANCE (): Collision model will not support the fastest tracing code
+      ValveBiped.Bip01_Spine4  (145 verts, 1 convex elements) volume: 1659.36
+      ValveBiped.Bip01_Head1   ( 66 verts, 1 convex elements) volume: 242.72
+      ValveBiped.Bip01_L_Clavicle ( 29 verts, 1 convex elements) volume: 31.42
+      ValveBiped.Bip01_L_UpperArm ( 59 verts, 1 convex elements) volume: 143.08
+      ValveBiped.Bip01_L_Forearm ( 58 verts, 1 convex elements) volume: 148.17
+      ValveBiped.Bip01_L_Hand  ( 28 verts, 1 convex elements) volume: 27.51
+      ValveBiped.Bip01_R_Clavicle ( 29 verts, 1 convex elements) volume: 30.95
+      ValveBiped.Bip01_R_UpperArm ( 71 verts, 1 convex elements) volume: 135.39
+      ValveBiped.Bip01_R_Forearm ( 57 verts, 1 convex elements) volume: 150.08
+      ValveBiped.Bip01_R_Hand  ( 27 verts, 1 convex elements) volume: 27.42
+      Collision model completed.
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/toku_jonin_feu_white.mdl:
+      bones        21008 bytes (73)
+         animation       x       y       ips    angle
+      animations    2656 bytes (3 anims) (3 frames) [0:01]
+      sequences      940 bytes (3 seq) 
+      ik/pose        856 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       276 bytes
+      keyvalues        0 bytes
+      bone transforms     9992 bytes
+      bone flex driver       0 bytes
+      Collision model volume 6729.50 in^3
+      collision        0 bytes
+      total        38736
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/toku_jonin_feu_white.vvd:
+      vertices   2527200 bytes (52650 vertices)
+      vertices   1421856 bytes (29622 vertices)
+      tangents    842400 bytes (52650 vertices)
+      tangents    473952 bytes (29622 vertices)
+      total      5265472 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/toku_jonin_feu_white.dx90.vtx":
+      body parts:        16 bytes
+      models:           136 bytes
+      model LODs:       120 bytes
+      meshes:           360 bytes
+      strip groups:    1155 bytes
+      strips:          1295 bytes
+      verts:        1518327 bytes
+      indices:      1743036 bytes
+      bone changes:    5048 bytes
+      everything:   3269409 bytes
+      
+      Completed "toku_jonin_feu_white.qc"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\toku_jonin_feu_white.dx90.vtx" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\toku_jonin_feu_white.mdl" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\toku_jonin_feu_white.phy" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\toku_jonin_feu_white.vvd" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Deleted empty temporary compile folder "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models".
+  ... Compiling "toku_jonin_feu_white\toku_jonin_feu_white.qc" finished. Check above for any errors.

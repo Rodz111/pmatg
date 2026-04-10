@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xsiphar_shurei_chaussure"
+"$nocull" "1"
+    "$bumpmap" "models/normal"
+    "$fresnelbumpstrenght" "1"
+    "$lightwarptexture" "models/lightwarptexture2"
+
+
+    "$phong" "0"
+
+    "$envmap" ""
+
+    "$basemapalphaphongmask" "0"
+
+    "$selfillum" "1"
+
+            "$blendtintbybasealpha" "1"  "$blendtintcoloroverbase" "0"
+}

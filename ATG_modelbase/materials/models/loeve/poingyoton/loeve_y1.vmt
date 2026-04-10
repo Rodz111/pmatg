@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "models/loeve/poingyoton/loeve_y1"
+    "$selfillum" "1"
+    "$selfillummask" "models/loeve/poingyoton/loeve_y1_light"
+    "$basetexturetransform" "center .5 .5 scale 1 1 rotate 0 translate 0 0"
+    "$nocull" "1"
+
+    "Proxies"
+    {
+        "TextureScroll"
+        {
+            "texturescrollvar" "$basetexturetransform"   // variable à modifier
+            "texturescrollrate" "0.05"                    // vitesse (unités par seconde) - augmente ou diminue
+            "texturescrollangle" "500"                  // angle en degrés (90 = haut, 180 = gauche, 270 = bas, 0 = droite)
+        }
+    }
+}

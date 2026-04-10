@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "Users/bache/OneDrive/Documents/Blender pm/atg v3/clan suna/clan son/meikyo/couleurs_meikyo"
+"$alphatest" 1
+    "$nocull" 1
+    "$nodecal" 1
+    "$lightwarptexture" "models/godio/lightwarpshader"
+}

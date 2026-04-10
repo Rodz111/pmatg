@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/xsiphar_soleil_logo"
+    "$translucent" "1"
+}

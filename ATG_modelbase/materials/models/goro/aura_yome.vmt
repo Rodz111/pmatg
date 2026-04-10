@@ -1,0 +1,22 @@
+"UnlitTwoTexture"
+{
+    "$basetexture" "models/goro/aura_yome"
+    "$texture2" "models/goro/aura_yome"
+    "$alphatest" 1
+     "$model" 1
+    "$nocull" "1"
+    "$additive" "1"
+    "Proxies"
+    {
+ 
+        "TextureScroll"
+        {
+            "texturescrollvar" "$texture2transform"
+            "texturescrollrate" -.2
+            "texturescrollangle" 40
+
+
+        }
+    }
+ 
+}

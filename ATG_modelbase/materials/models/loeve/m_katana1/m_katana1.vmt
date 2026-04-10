@@ -1,0 +1,24 @@
+"VertexLitGeneric"
+{
+   $basetexture "models/loeve/m_katana1/m_katana1"
+        $color2 "[1 1 1]"
+    $surfaceprop Flesh
+
+    $lightwarptexture "models\loeve\shaders\toon\toon"
+    $alphatest 0
+        $normalmapalphaenvmapmask "0"
+
+        $halflambert 1
+
+    $phong "1"
+    $phongexponent "20"
+    $phongboost ".05"
+    $phongfresnelranges "[.3 1 8]"
+
+    $rimlight 0
+    $rimlightexponent 5
+    $rimlightboost 1
+    $rimlightmask 1
+
+    $rimmask 1
+}

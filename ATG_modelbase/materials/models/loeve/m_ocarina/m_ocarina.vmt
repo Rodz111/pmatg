@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/loeve/m_ocarina/m_ocarina"
+    "$envmap" "env_cubemap"
+    "$envmaptint" "[0.25 0.25 0.25]"    // Reflet très doux
+    "$envmapcontrast" "0.2"             // Réduit les zones surexposées
+    "$envmapsaturation" "0.5"           // Atténue la brillance “blanche”
+    
+    "$phong" "1"
+    "$phongexponent" "8"                // Lumière diffuse, douce
+    "$phongboost" "0.5"                 // Réduit fortement la force du reflet
+    "$phongfresnelranges" "[0.05 0.3 0.8]"  // Transitions plus fluides
+    "$phongtint" "[0.8 0.8 0.8]"        // Lumière grise, pas blanche pétante
+
+    "$basemapalphaphongmask" "1"
+    "$nocull" "1"
+}

@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+    "$basetexture" "models/daichi/m_chinoike_chunin/ame_chunin_chinoike"
+"$alphatest" 1
+    "$nocull" 1
+    "$nodecal" 1
+    "$lightwarptexture" "models/daichi/lightwarpshader"
+}

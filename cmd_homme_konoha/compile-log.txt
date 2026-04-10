@@ -1,0 +1,504 @@
+// Created by Crowbar 0.74
+
+  Compiling "kage_uzumaki_kenro\kage_uzumaki_kenro.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\GarrysMod\bin\win64\studiomdl.exe": 
+      StudioMDL.exe (Mar 16 2026) - Garry's Mod Edition (64-bit)
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\advanced_duplicator_2_773402917'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_content_1_3457349172'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_content_particle_3413473814'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_godio_3363703125'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_other_3391031337'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_particles_1_3413473814'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_playermodel_2_3391792557'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_playermodel_3391033750'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_playermodel_3418420571'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_playermodel_daichi_3465539435'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_playermodel_goro_3483378891'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_props_2_3391796076'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_ressources_3_3391053710'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\cpe_anti_backdoor_1714628992'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\gmodadminsuite_1595332211'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\improved_fps_booster_1762151370'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\permaprops_220336312'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\slib_stromic_s_library_2206993805'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\sreport_content_2865739201'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\the_sit_anywhere_script_108176967'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\wos_dynabase_dynamic_animation_manager_2916561591'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\wos_dynabase_legacy_extensions_2917050373'
+      qdir:    "c:\users\rodzl\desktop\travail\cmd_homme_konoha\kage_uzumaki_kenro\"
+      gamedir: "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\"
+      g_path:  "kage_uzumaki_kenro.qc"
+      Building binary model files...
+      Working on "kage_uzumaki_kenro.qc"
+      SMD MODEL kage_uzumaki_kenro.smd
+      SMD MODEL kage_uzumaki_kenro_1.smd
+      SMD MODEL kage_uzumaki_kenro_2.smd
+      SMD MODEL kage_uzumaki_kenro_3.smd
+      Processing $shadowlod
+      SMD MODEL anims/reference_male.smd
+      SMD MODEL anims/proportions.smd
+      SMD MODEL ../physics.smd
+      Processing LOD for material: logo_troiseme_hokage
+      Lod 1: vertexes: 9270 (198 new)
+      Lod 2: vertexes: 9966 (696 new)
+      Lod 3: vertexes: 13912 (3946 new)
+      Processing LOD for material: logo_hyuga_cmd
+      Lod 1: vertexes: 14181 (1 new)
+      Lod 2: vertexes: 14184 (3 new)
+      Processing LOD for material: tenue_hyuga_arion
+      Lod 1: vertexes: 26633 (1994 new)
+      Lod 2: vertexes: 31054 (4421 new)
+      Lod 3: vertexes: 34935 (3881 new)
+      Processing LOD for material: mat_skin
+      Lod 1: vertexes: 35528 (5 new)
+      Lod 2: vertexes: 35927 (399 new)
+      Lod 3: vertexes: 36205 (278 new)
+      Processing jointed collision model
+      ValveBiped.Bip01_Pelvis  ( 88 verts, 1 convex elements) volume: 589.59
+      ValveBiped.Bip01_L_Thigh ( 56 verts, 1 convex elements) volume: 703.15
+      ValveBiped.Bip01_L_Calf  ( 65 verts, 1 convex elements) volume: 399.92
+      ValveBiped.Bip01_L_Foot  ( 49 verts, 1 convex elements) volume: 119.04
+      ValveBiped.Bip01_R_Thigh ( 54 verts, 1 convex elements) volume: 696.88
+      ValveBiped.Bip01_R_Calf  ( 59 verts, 1 convex elements) volume: 388.68
+      ValveBiped.Bip01_R_Foot  ( 47 verts, 1 convex elements) volume: 135.57
+      ValveBiped.Bip01_Spine2  (110 verts, 1 convex elements) volume: 1101.16
+      ValveBiped.Bip01_Spine4  (145 verts, 1 convex elements) volume: 1659.44
+      ValveBiped.Bip01_Head1   ( 66 verts, 1 convex elements) volume: 242.76
+      ValveBiped.Bip01_L_Clavicle ( 29 verts, 1 convex elements) volume: 31.42
+      ValveBiped.Bip01_L_UpperArm ( 59 verts, 1 convex elements) volume: 143.08
+      ValveBiped.Bip01_L_Forearm ( 58 verts, 1 convex elements) volume: 148.17
+      ValveBiped.Bip01_L_Hand  ( 28 verts, 1 convex elements) volume: 27.51
+      ValveBiped.Bip01_R_Clavicle ( 29 verts, 1 convex elements) volume: 30.95
+      ValveBiped.Bip01_R_UpperArm ( 71 verts, 1 convex elements) volume: 135.66
+      ValveBiped.Bip01_R_Forearm ( 57 verts, 1 convex elements) volume: 150.08
+      ValveBiped.Bip01_R_Hand  ( 27 verts, 1 convex elements) volume: 27.42
+      Collision model completed.
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models/atg_playermodel/tenues/kage_uzumaki_kenro.mdl:
+      bones        15072 bytes (56)
+         animation       x       y       ips    angle
+        @reference    0.00    0.00 : -nan(ind) (   0.00) 0.0
+      a_proportions    0.00    0.00 : -nan(ind) (   0.00) 0.0
+          @ragdoll    0.00    0.00 : -nan(ind) (   0.00) 0.0
+      animations    2592 bytes (3 anims) (3 frames) [0:01]
+      sequences      872 bytes (3 seq) 
+      ik/pose        692 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       276 bytes
+      keyvalues        0 bytes
+      bone transforms     7680 bytes
+      bone flex driver       0 bytes
+      Collision model volume 6730.49 in^3
+      collision        0 bytes
+      total        29448
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models/atg_playermodel/tenues/kage_uzumaki_kenro.vvd:
+      vertices   1737840 bytes (36205 vertices)
+      tangents    579280 bytes (36205 vertices)
+      total      2317184 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models/atg_playermodel/tenues/kage_uzumaki_kenro.dx80.vtx":
+      body parts:         8 bytes
+      models:            68 bytes
+      model LODs:        60 bytes
+      meshes:           180 bytes
+      strip groups:     450 bytes
+      strips:           594 bytes
+      verts:         620037 bytes
+      indices:       701304 bytes
+      bone changes:    1616 bytes
+      everything:   1324293 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models/atg_playermodel/tenues/kage_uzumaki_kenro.dx90.vtx":
+      body parts:         8 bytes
+      models:            68 bytes
+      model LODs:        60 bytes
+      meshes:           180 bytes
+      strip groups:     450 bytes
+      strips:           486 bytes
+      verts:         617022 bytes
+      indices:       701304 bytes
+      bone changes:    1480 bytes
+      everything:   1321034 bytes
+      
+      Completed "kage_uzumaki_kenro.qc"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models\atg_playermodel\tenues\kage_uzumaki_kenro.dx80.vtx" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models\atg_playermodel\tenues\kage_uzumaki_kenro.dx90.vtx" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models\atg_playermodel\tenues\kage_uzumaki_kenro.mdl" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models\atg_playermodel\tenues\kage_uzumaki_kenro.phy" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models\atg_playermodel\tenues\kage_uzumaki_kenro.vvd" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Deleted empty temporary compile folder "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models".
+  ... Compiling "kage_uzumaki_kenro\kage_uzumaki_kenro.qc" finished. Check above for any errors.
+
+  Compiling "konoha_jonin\konoha_jonin.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\GarrysMod\bin\win64\studiomdl.exe": 
+      StudioMDL.exe (Mar 16 2026) - Garry's Mod Edition (64-bit)
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\advanced_duplicator_2_773402917'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_content_1_3457349172'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_content_particle_3413473814'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_godio_3363703125'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_other_3391031337'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_particles_1_3413473814'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_playermodel_2_3391792557'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_playermodel_3391033750'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_playermodel_3418420571'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_playermodel_daichi_3465539435'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_playermodel_goro_3483378891'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_props_2_3391796076'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_ressources_3_3391053710'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\cpe_anti_backdoor_1714628992'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\gmodadminsuite_1595332211'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\improved_fps_booster_1762151370'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\permaprops_220336312'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\slib_stromic_s_library_2206993805'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\sreport_content_2865739201'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\the_sit_anywhere_script_108176967'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\wos_dynabase_dynamic_animation_manager_2916561591'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\wos_dynabase_legacy_extensions_2917050373'
+      qdir:    "c:\users\rodzl\desktop\travail\cmd_homme_konoha\konoha_jonin\"
+      gamedir: "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\"
+      g_path:  "konoha_jonin.qc"
+      Building binary model files...
+      Working on "konoha_jonin.qc"
+      SMD MODEL konoha_jonin.smd
+      SMD MODEL konoha_jonin_1.smd
+      SMD MODEL konoha_jonin_2.smd
+      SMD MODEL konoha_jonin_3.smd
+      Processing $shadowlod
+      SMD MODEL anims/reference_male.smd
+      SMD MODEL anims/proportions.smd
+      SMD MODEL ../physics.smd
+      Processing LOD for material: tenue_hc_tk
+      Lod 1: vertexes: 22277 (397 new)
+      Lod 2: vertexes: 24849 (2572 new)
+      Lod 3: vertexes: 31681 (6832 new)
+      Processing LOD for material: mat_skin
+      Lod 1: vertexes: 35047 (24 new)
+      Lod 2: vertexes: 35948 (901 new)
+      Lod 3: vertexes: 36721 (773 new)
+      Processing LOD for material: logo_konoha_jonin_dos
+      Lod 1: vertexes: 36794 (1 new)
+      Lod 2: vertexes: 36824 (30 new)
+      Lod 3: vertexes: 36843 (19 new)
+      Processing LOD for material: logo_konoha_toku
+      Lod 1: vertexes: 36880 (10 new)
+      Lod 2: vertexes: 36888 (8 new)
+      Lod 3: vertexes: 36904 (16 new)
+      Processing jointed collision model
+      ValveBiped.Bip01_Pelvis  ( 88 verts, 1 convex elements) volume: 589.59
+      ValveBiped.Bip01_L_Thigh ( 56 verts, 1 convex elements) volume: 703.15
+      ValveBiped.Bip01_L_Calf  ( 65 verts, 1 convex elements) volume: 399.92
+      ValveBiped.Bip01_L_Foot  ( 49 verts, 1 convex elements) volume: 119.04
+      ValveBiped.Bip01_R_Thigh ( 54 verts, 1 convex elements) volume: 696.88
+      ValveBiped.Bip01_R_Calf  ( 59 verts, 1 convex elements) volume: 388.68
+      ValveBiped.Bip01_R_Foot  ( 47 verts, 1 convex elements) volume: 135.57
+      ValveBiped.Bip01_Spine2  (110 verts, 1 convex elements) volume: 1101.16
+      ValveBiped.Bip01_Spine4  (145 verts, 1 convex elements) volume: 1659.44
+      ValveBiped.Bip01_Head1   ( 66 verts, 1 convex elements) volume: 242.76
+      ValveBiped.Bip01_L_Clavicle ( 29 verts, 1 convex elements) volume: 31.42
+      ValveBiped.Bip01_L_UpperArm ( 59 verts, 1 convex elements) volume: 143.08
+      ValveBiped.Bip01_L_Forearm ( 58 verts, 1 convex elements) volume: 148.17
+      ValveBiped.Bip01_L_Hand  ( 28 verts, 1 convex elements) volume: 27.51
+      ValveBiped.Bip01_R_Clavicle ( 29 verts, 1 convex elements) volume: 30.95
+      ValveBiped.Bip01_R_UpperArm ( 71 verts, 1 convex elements) volume: 135.66
+      ValveBiped.Bip01_R_Forearm ( 57 verts, 1 convex elements) volume: 150.08
+      ValveBiped.Bip01_R_Hand  ( 27 verts, 1 convex elements) volume: 27.42
+      Collision model completed.
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models/atg_playermodel/tenues/konoha_jonin.mdl:
+      bones        21508 bytes (75)
+         animation       x       y       ips    angle
+        @reference    0.00    0.00 : -nan(ind) (   0.00) 0.0
+      a_proportions    0.00    0.00 : -nan(ind) (   0.00) 0.0
+          @ragdoll    0.00    0.00 : -nan(ind) (   0.00) 0.0
+      animations    2780 bytes (3 anims) (3 frames) [0:01]
+      sequences      948 bytes (3 seq) 
+      ik/pose        692 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       276 bytes
+      keyvalues        0 bytes
+      bone transforms    10264 bytes
+      bone flex driver       0 bytes
+      Collision model volume 6730.49 in^3
+      collision        0 bytes
+      total        39004
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models/atg_playermodel/tenues/konoha_jonin.vvd:
+      vertices   1771392 bytes (36904 vertices)
+      tangents    590464 bytes (36904 vertices)
+      total      2361920 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models/atg_playermodel/tenues/konoha_jonin.dx80.vtx":
+      body parts:         8 bytes
+      models:            68 bytes
+      model LODs:        60 bytes
+      meshes:           180 bytes
+      strip groups:     500 bytes
+      strips:          1161 bytes
+      verts:         790920 bytes
+      indices:       889392 bytes
+      bone changes:    4232 bytes
+      everything:   1686497 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models/atg_playermodel/tenues/konoha_jonin.dx90.vtx":
+      body parts:         8 bytes
+      models:            68 bytes
+      model LODs:        60 bytes
+      meshes:           180 bytes
+      strip groups:     500 bytes
+      strips:           540 bytes
+      verts:         761094 bytes
+      indices:       889392 bytes
+      bone changes:    3056 bytes
+      everything:   1654874 bytes
+      
+      Completed "konoha_jonin.qc"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models\atg_playermodel\tenues\konoha_jonin.dx80.vtx" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models\atg_playermodel\tenues\konoha_jonin.dx90.vtx" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models\atg_playermodel\tenues\konoha_jonin.mdl" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models\atg_playermodel\tenues\konoha_jonin.phy" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models\atg_playermodel\tenues\konoha_jonin.vvd" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Deleted empty temporary compile folder "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models".
+  ... Compiling "konoha_jonin\konoha_jonin.qc" finished. Check above for any errors.
+
+  Compiling "konoha_nashimmu_kage\konoha_nashimmu_kage.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\GarrysMod\bin\win64\studiomdl.exe": 
+      StudioMDL.exe (Mar 16 2026) - Garry's Mod Edition (64-bit)
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\advanced_duplicator_2_773402917'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_content_1_3457349172'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_content_particle_3413473814'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_godio_3363703125'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_other_3391031337'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_particles_1_3413473814'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_playermodel_2_3391792557'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_playermodel_3391033750'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_playermodel_3418420571'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_playermodel_daichi_3465539435'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_playermodel_goro_3483378891'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_props_2_3391796076'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_ressources_3_3391053710'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\cpe_anti_backdoor_1714628992'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\gmodadminsuite_1595332211'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\improved_fps_booster_1762151370'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\permaprops_220336312'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\slib_stromic_s_library_2206993805'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\sreport_content_2865739201'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\the_sit_anywhere_script_108176967'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\wos_dynabase_dynamic_animation_manager_2916561591'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\wos_dynabase_legacy_extensions_2917050373'
+      qdir:    "c:\users\rodzl\desktop\travail\cmd_homme_konoha\konoha_nashimmu_kage\"
+      gamedir: "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\"
+      g_path:  "konoha_nashimmu_kage.qc"
+      Building binary model files...
+      Working on "konoha_nashimmu_kage.qc"
+      SMD MODEL konoha_nashimmu_kage.smd
+      SMD MODEL konoha_nashimmu_kage_1.smd
+      SMD MODEL konoha_nashimmu_kage_2.smd
+      SMD MODEL konoha_nashimmu_kage_3.smd
+      Processing $shadowlod
+      SMD MODEL anims/reference_male.smd
+      SMD MODEL anims/proportions.smd
+      SMD MODEL ../physics.smd
+      Processing LOD for material: Konoha_nashimmu_kage
+      Lod 1: vertexes: 28296 (94 new)
+      Lod 2: vertexes: 30604 (2308 new)
+      Lod 3: vertexes: 41329 (10725 new)
+      Processing LOD for material: mat_skin
+      Lod 2: vertexes: 45573 (1224 new)
+      Lod 3: vertexes: 46914 (1341 new)
+      Processing LOD for material: konoha_singe_kage
+      Lod 2: vertexes: 47135 (50 new)
+      Lod 3: vertexes: 47186 (51 new)
+      Processing jointed collision model
+      ValveBiped.Bip01_Pelvis  ( 88 verts, 1 convex elements) volume: 589.59
+      ValveBiped.Bip01_L_Thigh ( 56 verts, 1 convex elements) volume: 703.15
+      ValveBiped.Bip01_L_Calf  ( 65 verts, 1 convex elements) volume: 399.92
+      ValveBiped.Bip01_L_Foot  ( 49 verts, 1 convex elements) volume: 119.04
+      ValveBiped.Bip01_R_Thigh ( 54 verts, 1 convex elements) volume: 696.88
+      ValveBiped.Bip01_R_Calf  ( 59 verts, 1 convex elements) volume: 388.68
+      ValveBiped.Bip01_R_Foot  ( 47 verts, 1 convex elements) volume: 135.57
+      ValveBiped.Bip01_Spine2  (110 verts, 1 convex elements) volume: 1101.16
+      ValveBiped.Bip01_Spine4  (145 verts, 1 convex elements) volume: 1659.44
+      ValveBiped.Bip01_Head1   ( 66 verts, 1 convex elements) volume: 242.76
+      ValveBiped.Bip01_L_Clavicle ( 29 verts, 1 convex elements) volume: 31.42
+      ValveBiped.Bip01_L_UpperArm ( 59 verts, 1 convex elements) volume: 143.08
+      ValveBiped.Bip01_L_Forearm ( 58 verts, 1 convex elements) volume: 148.17
+      ValveBiped.Bip01_L_Hand  ( 28 verts, 1 convex elements) volume: 27.51
+      ValveBiped.Bip01_R_Clavicle ( 29 verts, 1 convex elements) volume: 30.95
+      ValveBiped.Bip01_R_UpperArm ( 71 verts, 1 convex elements) volume: 135.66
+      ValveBiped.Bip01_R_Forearm ( 57 verts, 1 convex elements) volume: 150.08
+      ValveBiped.Bip01_R_Hand  ( 27 verts, 1 convex elements) volume: 27.42
+      Collision model completed.
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models/atg_playermodel/tenues/konoha_nashimmu_kage.mdl:
+      bones        21224 bytes (74)
+         animation       x       y       ips    angle
+        @reference    0.00    0.00 : -nan(ind) (   0.00) 0.0
+      a_proportions    0.00    0.00 : -nan(ind) (   0.00) 0.0
+          @ragdoll    0.00    0.00 : -nan(ind) (   0.00) 0.0
+      animations    2776 bytes (3 anims) (3 frames) [0:01]
+      sequences      944 bytes (3 seq) 
+      ik/pose        692 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       212 bytes
+      keyvalues        0 bytes
+      bone transforms    10128 bytes
+      bone flex driver       0 bytes
+      Collision model volume 6730.49 in^3
+      collision        0 bytes
+      total        38384
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models/atg_playermodel/tenues/konoha_nashimmu_kage.vvd:
+      vertices   2264928 bytes (47186 vertices)
+      tangents    754976 bytes (47186 vertices)
+      total      3019968 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models/atg_playermodel/tenues/konoha_nashimmu_kage.dx80.vtx":
+      body parts:         8 bytes
+      models:            68 bytes
+      model LODs:        60 bytes
+      meshes:           135 bytes
+      strip groups:     375 bytes
+      strips:          1026 bytes
+      verts:         982863 bytes
+      indices:      1056708 bytes
+      bone changes:    3944 bytes
+      everything:   2045163 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models/atg_playermodel/tenues/konoha_nashimmu_kage.dx90.vtx":
+      body parts:         8 bytes
+      models:            68 bytes
+      model LODs:        60 bytes
+      meshes:           135 bytes
+      strip groups:     375 bytes
+      strips:           405 bytes
+      verts:         955899 bytes
+      indices:      1056708 bytes
+      bone changes:    2744 bytes
+      everything:   2016378 bytes
+      
+      Completed "konoha_nashimmu_kage.qc"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models\atg_playermodel\tenues\konoha_nashimmu_kage.dx80.vtx" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models\atg_playermodel\tenues\konoha_nashimmu_kage.dx90.vtx" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models\atg_playermodel\tenues\konoha_nashimmu_kage.mdl" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models\atg_playermodel\tenues\konoha_nashimmu_kage.phy" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models\atg_playermodel\tenues\konoha_nashimmu_kage.vvd" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Deleted empty temporary compile folder "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models".
+  ... Compiling "konoha_nashimmu_kage\konoha_nashimmu_kage.qc" finished. Check above for any errors.
+
+  Compiling "m_hittaro_tkj\m_hittaro_tkj.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\GarrysMod\bin\win64\studiomdl.exe": 
+      StudioMDL.exe (Mar 16 2026) - Garry's Mod Edition (64-bit)
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\advanced_duplicator_2_773402917'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_content_1_3457349172'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_content_particle_3413473814'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_godio_3363703125'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_other_3391031337'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_particles_1_3413473814'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_playermodel_2_3391792557'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_playermodel_3391033750'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_playermodel_3418420571'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_playermodel_daichi_3465539435'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_playermodel_goro_3483378891'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_props_2_3391796076'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_ressources_3_3391053710'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\cpe_anti_backdoor_1714628992'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\gmodadminsuite_1595332211'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\improved_fps_booster_1762151370'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\permaprops_220336312'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\slib_stromic_s_library_2206993805'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\sreport_content_2865739201'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\the_sit_anywhere_script_108176967'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\wos_dynabase_dynamic_animation_manager_2916561591'
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\wos_dynabase_legacy_extensions_2917050373'
+      qdir:    "c:\users\rodzl\desktop\travail\cmd_homme_konoha\m_hittaro_tkj\"
+      gamedir: "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\"
+      g_path:  "m_hittaro_tkj.qc"
+      Building binary model files...
+      Working on "m_hittaro_tkj.qc"
+      SMD MODEL m_hittaro_tkj.smd
+      SMD MODEL m_hittaro_tkj_1.smd
+      SMD MODEL m_hittaro_tkj_2.smd
+      SMD MODEL m_hittaro_tkj_3.smd
+      Processing $shadowlod
+      SMD MODEL anims/reference_male.smd
+      SMD MODEL anims/proportions.smd
+      SMD MODEL ../physics.smd
+      Processing LOD for material: hittaro_couleur_deux
+      Lod 1: vertexes: 11717 (44 new)
+      Lod 2: vertexes: 12111 (394 new)
+      Lod 3: vertexes: 15730 (3619 new)
+      Processing LOD for material: mat_skin
+      Lod 3: vertexes: 16997 (470 new)
+      Processing LOD for material: logo_hittaro
+      Lod 2: vertexes: 18761 (2 new)
+      Lod 3: vertexes: 20423 (1662 new)
+      Processing jointed collision model
+      ValveBiped.Bip01_Pelvis  ( 88 verts, 1 convex elements) volume: 589.59
+      ValveBiped.Bip01_L_Thigh ( 56 verts, 1 convex elements) volume: 703.15
+      ValveBiped.Bip01_L_Calf  ( 65 verts, 1 convex elements) volume: 399.92
+      ValveBiped.Bip01_L_Foot  ( 49 verts, 1 convex elements) volume: 119.04
+      ValveBiped.Bip01_R_Thigh ( 54 verts, 1 convex elements) volume: 696.88
+      ValveBiped.Bip01_R_Calf  ( 59 verts, 1 convex elements) volume: 388.68
+      ValveBiped.Bip01_R_Foot  ( 47 verts, 1 convex elements) volume: 135.57
+      ValveBiped.Bip01_Spine2  (110 verts, 1 convex elements) volume: 1101.16
+      ValveBiped.Bip01_Spine4  (145 verts, 1 convex elements) volume: 1659.44
+      ValveBiped.Bip01_Head1   ( 66 verts, 1 convex elements) volume: 242.76
+      ValveBiped.Bip01_L_Clavicle ( 29 verts, 1 convex elements) volume: 31.42
+      ValveBiped.Bip01_L_UpperArm ( 59 verts, 1 convex elements) volume: 143.08
+      ValveBiped.Bip01_L_Forearm ( 58 verts, 1 convex elements) volume: 148.17
+      ValveBiped.Bip01_L_Hand  ( 28 verts, 1 convex elements) volume: 27.51
+      ValveBiped.Bip01_R_Clavicle ( 29 verts, 1 convex elements) volume: 30.95
+      ValveBiped.Bip01_R_UpperArm ( 71 verts, 1 convex elements) volume: 135.66
+      ValveBiped.Bip01_R_Forearm ( 57 verts, 1 convex elements) volume: 150.08
+      ValveBiped.Bip01_R_Hand  ( 27 verts, 1 convex elements) volume: 27.42
+      Collision model completed.
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models/atg_playermodel/tenues/m_hittaro_tkj.mdl:
+      bones        16172 bytes (62)
+         animation       x       y       ips    angle
+        @reference    0.00    0.00 : -nan(ind) (   0.00) 0.0
+      a_proportions    0.00    0.00 : -nan(ind) (   0.00) 0.0
+          @ragdoll    0.00    0.00 : -nan(ind) (   0.00) 0.0
+      animations    2676 bytes (3 anims) (3 frames) [0:01]
+      sequences      896 bytes (3 seq) 
+      ik/pose        692 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       212 bytes
+      keyvalues        0 bytes
+      bone transforms     8496 bytes
+      bone flex driver       0 bytes
+      Collision model volume 6730.49 in^3
+      collision        0 bytes
+      total        31336
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models/atg_playermodel/tenues/m_hittaro_tkj.vvd:
+      vertices    980304 bytes (20423 vertices)
+      tangents    326768 bytes (20423 vertices)
+      total      1307136 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models/atg_playermodel/tenues/m_hittaro_tkj.dx80.vtx":
+      body parts:         8 bytes
+      models:            68 bytes
+      model LODs:        60 bytes
+      meshes:           135 bytes
+      strip groups:     375 bytes
+      strips:           567 bytes
+      verts:         439848 bytes
+      indices:       460098 bytes
+      bone changes:    1712 bytes
+      everything:    902847 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models/atg_playermodel/tenues/m_hittaro_tkj.dx90.vtx":
+      body parts:         8 bytes
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models\atg_playermodel\tenues\m_hittaro_tkj.dx80.vtx" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models\atg_playermodel\tenues\m_hittaro_tkj.dx90.vtx" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models\atg_playermodel\tenues\m_hittaro_tkj.mdl" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models\atg_playermodel\tenues\m_hittaro_tkj.phy" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models\atg_playermodel\tenues\m_hittaro_tkj.vvd" to "C:\Users\Rodzl\Desktop\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Deleted empty temporary compile folder "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models".
+  ... Compiling "m_hittaro_tkj\m_hittaro_tkj.qc" finished. Check above for any errors.

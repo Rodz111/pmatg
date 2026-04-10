@@ -1,0 +1,29 @@
+"UnlitGeneric"
+{
+    "$basetexture" "models/loeve/loeve_k_btq/loeve_k_aura"
+    "$additive" "1"
+    "$alpha" "0.35"
+    "$color" "[0.3 0.6 1.0]"
+    "$nocull" "1"
+        "srgb?$overbrightfactor" "1"
+    "$addself" "3"
+
+
+    "Proxies"
+    {
+        "TextureScroll"
+        {
+            "texturescrollvar" "$basetexturetransform"
+            "texturescrollrate" 0.8
+            "texturescrollangle" 90
+        }
+
+        "Sine"
+        {
+            "resultVar" "$alpha"
+            "sinemin" "0.25"             
+            "sinemax" "0.45"             
+            "sineperiod" "15"           
+        }
+    }
+}

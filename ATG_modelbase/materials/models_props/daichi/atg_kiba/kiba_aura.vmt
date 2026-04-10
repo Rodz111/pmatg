@@ -1,0 +1,22 @@
+"UnlitTwoTexture"
+{
+	"$basetexture"	"models_props/daichi/atg_kiba/kiba_aura"
+	"$texture2" "models_props/daichi/atg_kiba/kiba_aura"
+	"$alphatest" 1
+ 	"$model" 1
+	"$nocull" "1"
+	"$additive" "1"
+	"Proxies"
+	{
+ 
+		"TextureScroll"
+		{
+			"texturescrollvar" "$texture2transform"
+			"texturescrollrate" -.5
+			"texturescrollangle" 40
+
+
+		}
+	}
+ 
+}

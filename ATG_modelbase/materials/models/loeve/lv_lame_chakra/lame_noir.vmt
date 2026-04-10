@@ -1,0 +1,14 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/loeve/lv_lame_chakra/lame_noir"
+    "$additive" "1"
+
+    "Proxies"
+    {
+        "TextureScroll"
+        {
+            "texturescrollvar" "$basetexturetransform"
+            "texturescrollrate" 0.5
+            "texturescrollangle" 50
+        }
+

@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/skylyxx/ctg/characters/mat_proxy"
+	"$lightwarptexture" "models/skylyxx/ctg/characters/toon"
+
+	Proxies 
+	{
+		CTGSkinColor
+		{
+			resultVar    $color2
+			default        1 1 1
+		}
+	}
+}

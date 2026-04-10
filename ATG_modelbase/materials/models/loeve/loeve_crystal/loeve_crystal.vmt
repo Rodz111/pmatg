@@ -1,0 +1,13 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/loeve/loeve_crystal/loeve_crystal"
+	"$surfaceprop" "Glass"
+	"$model" 1
+	"$translucent" 1
+	"$nocull" 1
+    "$bumpmap" "models/loeve/loeve_p_komyoton/normal"
+	"$lightwarptexture" "models/loeve_shaders/lightwarpshader"
+	"$detail"    "models/loeve_shaders/noise3_loeve"
+	"$detailscale" "5"
+}
+

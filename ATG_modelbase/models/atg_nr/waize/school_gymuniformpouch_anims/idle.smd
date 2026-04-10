@@ -1,0 +1,9 @@
+// Created by Crowbar 0.67
+version 1
+nodes
+  0 "joint01" -1
+end
+skeleton
+  time 0
+    0 4.653865 2.103250 8.567488 0.000000 0.106174 -1.570796
+end

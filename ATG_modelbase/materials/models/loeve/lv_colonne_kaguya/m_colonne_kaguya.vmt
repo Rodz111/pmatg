@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/loeve/lv_colonne_kaguya/m_colonne_kaguya"
+	"$lightwarptexture" "models/loeve_shaders/lightwarpshader"
+                "$nocull" "1"
+                "$alphatest" "1"
+	"$detail"    "models/loeve_shaders/noise3_loeve"
+	"$detailscale" "5"
+
+}
