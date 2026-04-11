@@ -1,0 +1,20 @@
+// Created by Crowbar 0.74
+
+  Compiling "academique_femme\academique_femme.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\GarrysMod\bin\win64\studiomdl.exe": 
+      StudioMDL.exe (Mar 16 2026) - Garry's Mod Edition (64-bit)
+      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_playermodels'
+      qdir:    "c:\users\rodzl\desktop\travail\academique_femme_konoha\academique_femme\"
+      gamedir: "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\"
+      g_path:  "academique_femme.qc"
+      Building binary model files...
+      Working on "academique_femme.qc"
+      SMD MODEL academique_femme.smd
+      SMD MODEL academique_femme_1.smd
+      SMD MODEL academique_femme_2.smd
+      SMD MODEL academique_femme_3.smd
+      Processing $shadowlod
+      ERROR: c:\users\rodzl\desktop\travail\academique_femme_konoha\academique_femme\academique_femme.qc(194): - could not load file 'anims/reference_male'
+      ERROR: Aborted Processing on 'atg_playermodel/tenues/academique_femme.mdl'
+    CROWBAR: Deleted empty temporary compile folder "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models".
+  ... Compiling "academique_femme\academique_femme.qc" finished. Check above for any errors.
