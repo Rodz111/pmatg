@@ -1,0 +1,90 @@
+// Created by Crowbar 0.74
+
+  Compiling "w_suna_police.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\rodzl\desktop\travail\police_femme_suna\w_suna_police\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\"
+      g_path:  "w_suna_police.qc"
+      Building binary model files...
+      Working on "w_suna_police.qc"
+      SMD MODEL w_suna_police.smd
+      SMD MODEL w_suna_police_1.smd
+      SMD MODEL w_suna_police_2.smd
+      SMD MODEL w_suna_police_3.smd
+      Processing $shadowlod
+      SMD MODEL anims/reference_female.smd
+      SMD MODEL anims/proportions.smd
+      SMD MODEL ../physics.smd
+      Processing LOD for material: m_suna_police_c
+      Lod 1: vertexes: 817 (43 new)
+      Lod 2: vertexes: 989 (172 new)
+      Lod 3: vertexes: 1251 (262 new)
+      Processing LOD for material: mat_skin
+      Lod 1: vertexes: 3272 (2 new)
+      Lod 2: vertexes: 4460 (1188 new)
+      Lod 3: vertexes: 5429 (969 new)
+      Processing LOD for material: m_suna_police
+      Lod 1: vertexes: 21408 (190 new)
+      Lod 2: vertexes: 22817 (1409 new)
+      Lod 3: vertexes: 28480 (5663 new)
+      Processing jointed collision model
+      ValveBiped.Bip01_Pelvis  ( 88 verts, 1 convex elements) volume: 589.58
+      ValveBiped.Bip01_L_Thigh ( 56 verts, 1 convex elements) volume: 703.09
+      ValveBiped.Bip01_L_Calf  ( 65 verts, 1 convex elements) volume: 399.90
+      ValveBiped.Bip01_L_Foot  ( 49 verts, 1 convex elements) volume: 119.04
+      ValveBiped.Bip01_R_Thigh ( 54 verts, 1 convex elements) volume: 696.89
+      ValveBiped.Bip01_R_Calf  ( 59 verts, 1 convex elements) volume: 388.63
+      ValveBiped.Bip01_R_Foot  ( 47 verts, 1 convex elements) volume: 135.57
+      ValveBiped.Bip01_Spine2  (110 verts, 1 convex elements) volume: 1100.68
+      WARNING: PERFORMANCE (): Collision model will not support the fastest tracing code
+      ValveBiped.Bip01_Spine4  (145 verts, 1 convex elements) volume: 1659.36
+      ValveBiped.Bip01_Head1   ( 66 verts, 1 convex elements) volume: 242.72
+      ValveBiped.Bip01_L_Clavicle ( 29 verts, 1 convex elements) volume: 31.42
+      ValveBiped.Bip01_L_UpperArm ( 59 verts, 1 convex elements) volume: 143.08
+      ValveBiped.Bip01_L_Forearm ( 58 verts, 1 convex elements) volume: 148.17
+      ValveBiped.Bip01_L_Hand  ( 28 verts, 1 convex elements) volume: 27.51
+      ValveBiped.Bip01_R_Clavicle ( 29 verts, 1 convex elements) volume: 30.95
+      ValveBiped.Bip01_R_UpperArm ( 71 verts, 1 convex elements) volume: 135.39
+      ValveBiped.Bip01_R_Forearm ( 57 verts, 1 convex elements) volume: 150.08
+      ValveBiped.Bip01_R_Hand  ( 27 verts, 1 convex elements) volume: 27.42
+      Collision model completed.
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/w_suna_police.mdl:
+      bones        17964 bytes (64)
+         animation       x       y       ips    angle
+      animations    2676 bytes (3 anims) (3 frames) [0:01]
+      sequences      904 bytes (3 seq) 
+      ik/pose        692 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       212 bytes
+      keyvalues        0 bytes
+      bone transforms     8768 bytes
+      bone flex driver       0 bytes
+      Collision model volume 6729.50 in^3
+      collision        0 bytes
+      total        33448
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/w_suna_police.vvd:
+      vertices   1367040 bytes (28480 vertices)
+      tangents    455680 bytes (28480 vertices)
+      total      1822784 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/w_suna_police.dx90.vtx":
+      body parts:         8 bytes
+      models:            68 bytes
+      model LODs:        60 bytes
+      meshes:           135 bytes
+      strip groups:     495 bytes
+      strips:           525 bytes
+      verts:         564138 bytes
+      indices:       612312 bytes
+      bone changes:    2184 bytes
+      everything:   1179901 bytes
+      
+      Completed "w_suna_police.qc"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\w_suna_police.dx90.vtx" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\w_suna_police.mdl" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\w_suna_police.phy" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\w_suna_police.vvd" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+  ... Compiling "w_suna_police.qc" finished. Check above for any errors.

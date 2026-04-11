@@ -1,0 +1,113 @@
+// Created by Crowbar 0.74
+
+  Compiling "hyuga_cmd.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\rodzl\desktop\travail\hyuga_homme_konoha\hyuga_cmd\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\"
+      g_path:  "hyuga_cmd.qc"
+      Building binary model files...
+      Working on "hyuga_cmd.qc"
+      SMD MODEL hyuga_cmd.smd
+      SMD MODEL hyuga_cmd_1.smd
+      SMD MODEL hyuga_cmd_2.smd
+      SMD MODEL hyuga_cmd_3.smd
+      Processing $shadowlod
+      SMD MODEL anims/reference_male.smd
+      SMD MODEL anims/proportions.smd
+      SMD MODEL ../physics.smd
+      WARNING: model has too many verts, cutting into multiple models
+      Processing LOD for material: tenue_hyuga_arion
+      Lod 1: vertexes: 23826 (1983 new)
+      Lod 2: vertexes: 28528 (4702 new)
+      Lod 3: vertexes: 34050 (5522 new)
+      Processing LOD for material: logo_hyuga_cmd
+      Lod 1: vertexes: 34428 (378 new)
+      Lod 2: vertexes: 34502 (74 new)
+      Lod 3: vertexes: 34635 (133 new)
+      Processing LOD for material: mat_skin
+      Lod 1: vertexes: 35163 (528 new)
+      Lod 2: vertexes: 35580 (417 new)
+      Lod 3: vertexes: 35865 (285 new)
+      Processing LOD for material: tenue_hyuga_arion
+      Lod 2: vertexes: 22188 (2262 new)
+      Lod 3: vertexes: 34837 (12649 new)
+      Processing LOD for material: logo_hyuga_cmd
+      Lod 2: vertexes: 37202 (448 new)
+      Lod 3: vertexes: 38318 (1116 new)
+      Processing LOD for material: mat_skin
+      Processing LOD for material: tenue_hyuga_arion
+      Processing LOD for material: logo_hyuga_cmd
+      Lod 3: vertexes: 1149 (171 new)
+      Processing LOD for material: mat_skin
+      Lod 2: vertexes: 4303 (1176 new)
+      Lod 3: vertexes: 6270 (1967 new)
+      Processing jointed collision model
+      ValveBiped.Bip01_Pelvis  ( 88 verts, 1 convex elements) volume: 589.58
+      ValveBiped.Bip01_L_Thigh ( 56 verts, 1 convex elements) volume: 703.09
+      ValveBiped.Bip01_L_Calf  ( 65 verts, 1 convex elements) volume: 399.90
+      ValveBiped.Bip01_L_Foot  ( 49 verts, 1 convex elements) volume: 119.04
+      ValveBiped.Bip01_R_Thigh ( 54 verts, 1 convex elements) volume: 696.89
+      ValveBiped.Bip01_R_Calf  ( 59 verts, 1 convex elements) volume: 388.63
+      ValveBiped.Bip01_R_Foot  ( 47 verts, 1 convex elements) volume: 135.57
+      ValveBiped.Bip01_Spine2  (110 verts, 1 convex elements) volume: 1100.68
+      WARNING: PERFORMANCE (): Collision model will not support the fastest tracing code
+      ValveBiped.Bip01_Spine4  (145 verts, 1 convex elements) volume: 1659.36
+      ValveBiped.Bip01_Head1   ( 66 verts, 1 convex elements) volume: 242.68
+      ValveBiped.Bip01_L_Clavicle ( 29 verts, 1 convex elements) volume: 31.42
+      ValveBiped.Bip01_L_UpperArm ( 59 verts, 1 convex elements) volume: 143.08
+      ValveBiped.Bip01_L_Forearm ( 58 verts, 1 convex elements) volume: 148.17
+      ValveBiped.Bip01_L_Hand  ( 28 verts, 1 convex elements) volume: 27.51
+      ValveBiped.Bip01_R_Clavicle ( 29 verts, 1 convex elements) volume: 30.95
+      ValveBiped.Bip01_R_UpperArm ( 71 verts, 1 convex elements) volume: 135.39
+      ValveBiped.Bip01_R_Forearm ( 57 verts, 1 convex elements) volume: 150.08
+      ValveBiped.Bip01_R_Hand  ( 27 verts, 1 convex elements) volume: 27.42
+      Collision model completed.
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/hyuga_cmd.mdl:
+      bones        17152 bytes (59)
+         animation       x       y       ips    angle
+      animations    2692 bytes (3 anims) (3 frames) [0:01]
+      sequences      884 bytes (3 seq) 
+      ik/pose       1020 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       212 bytes
+      keyvalues        0 bytes
+      bone transforms     8088 bytes
+      bone flex driver       0 bytes
+      Collision model volume 6729.46 in^3
+      collision        0 bytes
+      total        32924
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/hyuga_cmd.vvd:
+      vertices   1721520 bytes (35865 vertices)
+      vertices   1839264 bytes (38318 vertices)
+      vertices    300960 bytes (6270 vertices)
+      tangents    573840 bytes (35865 vertices)
+      tangents    613088 bytes (38318 vertices)
+      tangents    100320 bytes (6270 vertices)
+      total      5149056 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/hyuga_cmd.dx90.vtx":
+      body parts:        24 bytes
+      models:           204 bytes
+      model LODs:       180 bytes
+      meshes:           405 bytes
+      strip groups:    1089 bytes
+      strips:          1155 bytes
+      verts:        1661148 bytes
+      indices:      1807248 bytes
+      bone changes:    4120 bytes
+      everything:   3475429 bytes
+      
+      Completed "hyuga_cmd.qc"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\hyuga_cmd.dx90.vtx" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\hyuga_cmd.mdl" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\hyuga_cmd.phy" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\hyuga_cmd.vvd" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Deleted empty temporary compile folder "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models".
+  ... Compiling "hyuga_cmd.qc" finished. Check above for any errors.

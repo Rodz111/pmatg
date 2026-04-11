@@ -15,31 +15,47 @@
       SMD MODEL anims/reference_male.smd
       SMD MODEL anims/proportions.smd
       SMD MODEL ../physics.smd
+      WARNING: model has too many verts, cutting into multiple models
       Processing LOD for material: senju_chunin_armee
-      Lod 1: vertexes: 2149 (16 new)
-      Lod 2: vertexes: 2335 (186 new)
-      Lod 3: vertexes: 3048 (713 new)
+      Lod 1: vertexes: 21859 (16 new)
+      Lod 2: vertexes: 22045 (186 new)
+      Lod 3: vertexes: 22758 (713 new)
       Processing LOD for material: senju_armee
-      Lod 1: vertexes: 3319 (3 new)
-      Lod 2: vertexes: 3351 (32 new)
-      Lod 3: vertexes: 3368 (17 new)
+      Lod 1: vertexes: 22897 (139 new)
+      Lod 2: vertexes: 22934 (37 new)
+      Lod 3: vertexes: 22954 (20 new)
       Processing LOD for material: mat_skin
-      Lod 1: vertexes: 4360 (1 new)
-      Lod 2: vertexes: 4964 (604 new)
-      Lod 3: vertexes: 5372 (408 new)
+      Lod 1: vertexes: 23901 (947 new)
+      Lod 2: vertexes: 24530 (629 new)
+      Lod 3: vertexes: 24938 (408 new)
+      Processing LOD for material: konoha_senju_armee
+      Processing LOD for material: senju_chunin_armee
+      Lod 2: vertexes: 21934 (91 new)
+      Lod 3: vertexes: 37955 (16021 new)
+      Processing LOD for material: senju_armee
+      Processing LOD for material: mat_skin
+      Processing LOD for material: konoha_senju_armee
+      Processing LOD for material: senju_chunin_armee
+      Lod 3: vertexes: 1524 (231 new)
+      Processing LOD for material: senju_armee
+      Processing LOD for material: mat_skin
+      Lod 2: vertexes: 7277 (2131 new)
+      Lod 3: vertexes: 10620 (3343 new)
+      Processing LOD for material: konoha_senju_armee
+      Lod 3: vertexes: 10758 (19 new)
       Processing jointed collision model
       ValveBiped.Bip01_Pelvis  ( 88 verts, 1 convex elements) volume: 589.58
       ValveBiped.Bip01_L_Thigh ( 56 verts, 1 convex elements) volume: 703.09
       ValveBiped.Bip01_L_Calf  ( 65 verts, 1 convex elements) volume: 399.90
       ValveBiped.Bip01_L_Foot  ( 49 verts, 1 convex elements) volume: 119.04
       ValveBiped.Bip01_R_Thigh ( 54 verts, 1 convex elements) volume: 696.89
-      ValveBiped.Bip01_R_Calf  ( 59 verts, 1 convex elements) volume: 388.63
+      ValveBiped.Bip01_R_Calf  ( 59 verts, 1 convex elements) volume: 388.67
       ValveBiped.Bip01_R_Foot  ( 47 verts, 1 convex elements) volume: 135.57
       ValveBiped.Bip01_Spine2  (110 verts, 1 convex elements) volume: 1100.68
       WARNING: PERFORMANCE (): Collision model will not support the fastest tracing code
       ValveBiped.Bip01_Spine4  (145 verts, 1 convex elements) volume: 1659.36
       ValveBiped.Bip01_Head1   ( 66 verts, 1 convex elements) volume: 242.72
-      ValveBiped.Bip01_L_Clavicle ( 29 verts, 1 convex elements) volume: 31.42
+      ValveBiped.Bip01_L_Clavicle ( 29 verts, 1 convex elements) volume: 31.43
       ValveBiped.Bip01_L_UpperArm ( 59 verts, 1 convex elements) volume: 143.08
       ValveBiped.Bip01_L_Forearm ( 58 verts, 1 convex elements) volume: 148.17
       ValveBiped.Bip01_L_Hand  ( 28 verts, 1 convex elements) volume: 27.51
@@ -50,37 +66,45 @@
       Collision model completed.
       ---------------------
       writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/goro_senju_armee.mdl:
-      bones        15044 bytes (59)
+      bones        21508 bytes (75)
          animation       x       y       ips    angle
-      animations    2636 bytes (3 anims) (3 frames) [0:01]
-      sequences      884 bytes (3 seq) 
-      ik/pose        692 bytes
+      animations    2972 bytes (3 anims) (3 frames) [0:01]
+      sequences      948 bytes (3 seq) 
+      ik/pose       1020 bytes
       eyeballs         0 bytes (0 eyeballs)
       flexes           0 bytes (0 flexes)
-      textures       212 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       276 bytes
       keyvalues        0 bytes
-      bone transforms     8088 bytes
+      bone transforms    10264 bytes
       bone flex driver       0 bytes
-      Collision model volume 6729.50 in^3
+      Collision model volume 6729.53 in^3
       collision        0 bytes
-      total        29720
+      total        40476
       ---------------------
       writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/goro_senju_armee.vvd:
-      vertices    257856 bytes (5372 vertices)
-      tangents     85952 bytes (5372 vertices)
-      total       343872 bytes
+      vertices   1197024 bytes (24938 vertices)
+      vertices   1821840 bytes (37955 vertices)
+      vertices    516384 bytes (10758 vertices)
+      tangents    399008 bytes (24938 vertices)
+      tangents    607280 bytes (37955 vertices)
+      tangents    172128 bytes (10758 vertices)
+      total      4713728 bytes
       ---------------------
       Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/goro_senju_armee.dx90.vtx":
-      body parts:         8 bytes
-      models:            68 bytes
-      model LODs:        60 bytes
-      meshes:           135 bytes
-      strip groups:     495 bytes
-      strips:           525 bytes
-      verts:         104580 bytes
-      indices:       116952 bytes
-      bone changes:     984 bytes
-      everything:    223783 bytes
+      body parts:        24 bytes
+      models:           204 bytes
+      model LODs:       180 bytes
+      meshes:           540 bytes
+      strip groups:    1254 bytes
+      strips:          1330 bytes
+      verts:        1480104 bytes
+      indices:      1575972 bytes
+      bone changes:    3864 bytes
+      everything:   3063328 bytes
       
       Completed "goro_senju_armee.qc"
     CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\goro_senju_armee.dx90.vtx" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
@@ -765,7 +789,88 @@
       SMD MODEL uchiha_chunin_2.smd
       SMD MODEL uchiha_chunin_3.smd
       Processing $shadowlod
-      ERROR: c:\users\rodzl\desktop\travail\tkc_homme_konoha\uchiha_chunin\uchiha_chunin.qc(194): - could not load file 'anims/reference_female'
-      ERROR: Aborted Processing on 'atg_playermodel/tenues/uchiha_chunin.mdl'
+      SMD MODEL anims/reference_male.smd
+      SMD MODEL anims/proportions.smd
+      SMD MODEL ../physics.smd
+      WARNING: model has too many verts, cutting into multiple models
+      Processing LOD for material: mat_skin
+      Lod 2: vertexes: 5083 (1589 new)
+      Lod 3: vertexes: 6675 (1592 new)
+      Processing LOD for material: bot
+      Lod 1: vertexes: 21845 (84 new)
+      Lod 2: vertexes: 22432 (587 new)
+      Lod 3: vertexes: 25626 (3194 new)
+      Processing LOD for material: top
+      Lod 1: vertexes: 37516 (8627 new)
+      Lod 2: vertexes: 39491 (1975 new)
+      Lod 3: vertexes: 43724 (4233 new)
+      Processing LOD for material: mat_skin
+      Processing LOD for material: bot
+      Processing LOD for material: top
+      Lod 3: vertexes: 19264 (8232 new)
+      Processing jointed collision model
+      ValveBiped.Bip01_Pelvis  ( 88 verts, 1 convex elements) volume: 589.58
+      ValveBiped.Bip01_L_Thigh ( 56 verts, 1 convex elements) volume: 703.09
+      ValveBiped.Bip01_L_Calf  ( 65 verts, 1 convex elements) volume: 399.90
+      ValveBiped.Bip01_L_Foot  ( 49 verts, 1 convex elements) volume: 119.04
+      ValveBiped.Bip01_R_Thigh ( 54 verts, 1 convex elements) volume: 696.89
+      ValveBiped.Bip01_R_Calf  ( 59 verts, 1 convex elements) volume: 388.63
+      ValveBiped.Bip01_R_Foot  ( 47 verts, 1 convex elements) volume: 135.57
+      ValveBiped.Bip01_Spine2  (110 verts, 1 convex elements) volume: 1100.68
+      WARNING: PERFORMANCE (): Collision model will not support the fastest tracing code
+      ValveBiped.Bip01_Spine4  (145 verts, 1 convex elements) volume: 1659.36
+      ValveBiped.Bip01_Head1   ( 66 verts, 1 convex elements) volume: 242.72
+      ValveBiped.Bip01_L_Clavicle ( 29 verts, 1 convex elements) volume: 31.42
+      ValveBiped.Bip01_L_UpperArm ( 59 verts, 1 convex elements) volume: 143.08
+      ValveBiped.Bip01_L_Forearm ( 58 verts, 1 convex elements) volume: 148.17
+      ValveBiped.Bip01_L_Hand  ( 28 verts, 1 convex elements) volume: 27.51
+      ValveBiped.Bip01_R_Clavicle ( 29 verts, 1 convex elements) volume: 30.95
+      ValveBiped.Bip01_R_UpperArm ( 71 verts, 1 convex elements) volume: 135.39
+      ValveBiped.Bip01_R_Forearm ( 57 verts, 1 convex elements) volume: 150.08
+      ValveBiped.Bip01_R_Hand  ( 27 verts, 1 convex elements) volume: 27.42
+      Collision model completed.
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/uchiha_chunin.mdl:
+      bones        15240 bytes (53)
+         animation       x       y       ips    angle
+      animations    2600 bytes (3 anims) (3 frames) [0:01]
+      sequences      860 bytes (3 seq) 
+      ik/pose        856 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       212 bytes
+      keyvalues        0 bytes
+      bone transforms     7272 bytes
+      bone flex driver       0 bytes
+      Collision model volume 6729.50 in^3
+      collision        0 bytes
+      total        29436
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/uchiha_chunin.vvd:
+      vertices   2098752 bytes (43724 vertices)
+      vertices    924672 bytes (19264 vertices)
+      tangents    699584 bytes (43724 vertices)
+      tangents    308224 bytes (19264 vertices)
+      total      4031296 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/uchiha_chunin.dx90.vtx":
+      body parts:        16 bytes
+      models:           136 bytes
+      model LODs:       120 bytes
+      meshes:           270 bytes
+      strip groups:     660 bytes
+      strips:           700 bytes
+      verts:        1399122 bytes
+      indices:      1472028 bytes
+      bone changes:    2392 bytes
+      everything:   2875360 bytes
+      
+      Completed "uchiha_chunin.qc"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\uchiha_chunin.dx90.vtx" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\uchiha_chunin.mdl" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\uchiha_chunin.phy" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\uchiha_chunin.vvd" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
     CROWBAR: Deleted empty temporary compile folder "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models".
   ... Compiling "uchiha_chunin\uchiha_chunin.qc" finished. Check above for any errors.

@@ -1,0 +1,442 @@
+// Created by Crowbar 0.74
+
+  Compiling "commandant_suna_sans_clan\commandant_suna_sans_clan.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\rodzl\desktop\travail\cmj_homme_suna\commandant_suna_sans_clan\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\"
+      g_path:  "commandant_suna_sans_clan.qc"
+      Building binary model files...
+      Working on "commandant_suna_sans_clan.qc"
+      SMD MODEL commandant_suna_sans_clan.smd
+      SMD MODEL commandant_suna_sans_clan_1.smd
+      SMD MODEL commandant_suna_sans_clan_2.smd
+      SMD MODEL commandant_suna_sans_clan_3.smd
+      Processing $shadowlod
+      SMD MODEL anims/reference_male.smd
+      SMD MODEL anims/proportions.smd
+      SMD MODEL ../physics.smd
+      Processing LOD for material: kira_kage
+      Lod 1: vertexes: 696 (97 new)
+      Lod 2: vertexes: 951 (255 new)
+      Lod 3: vertexes: 1168 (217 new)
+      Processing LOD for material: kira_dos_kage
+      Lod 1: vertexes: 17845 (363 new)
+      Lod 2: vertexes: 22418 (4573 new)
+      Lod 3: vertexes: 28137 (5719 new)
+      Processing jointed collision model
+      ValveBiped.Bip01_Pelvis  ( 88 verts, 1 convex elements) volume: 589.58
+      ValveBiped.Bip01_L_Thigh ( 56 verts, 1 convex elements) volume: 703.09
+      ValveBiped.Bip01_L_Calf  ( 65 verts, 1 convex elements) volume: 399.90
+      ValveBiped.Bip01_L_Foot  ( 49 verts, 1 convex elements) volume: 119.04
+      ValveBiped.Bip01_R_Thigh ( 54 verts, 1 convex elements) volume: 696.89
+      ValveBiped.Bip01_R_Calf  ( 59 verts, 1 convex elements) volume: 388.63
+      ValveBiped.Bip01_R_Foot  ( 47 verts, 1 convex elements) volume: 135.57
+      ValveBiped.Bip01_Spine2  (110 verts, 1 convex elements) volume: 1100.68
+      WARNING: PERFORMANCE (): Collision model will not support the fastest tracing code
+      ValveBiped.Bip01_Spine4  (145 verts, 1 convex elements) volume: 1659.36
+      ValveBiped.Bip01_Head1   ( 66 verts, 1 convex elements) volume: 242.72
+      ValveBiped.Bip01_L_Clavicle ( 29 verts, 1 convex elements) volume: 31.42
+      ValveBiped.Bip01_L_UpperArm ( 59 verts, 1 convex elements) volume: 143.08
+      ValveBiped.Bip01_L_Forearm ( 58 verts, 1 convex elements) volume: 148.17
+      ValveBiped.Bip01_L_Hand  ( 28 verts, 1 convex elements) volume: 27.51
+      ValveBiped.Bip01_R_Clavicle ( 29 verts, 1 convex elements) volume: 30.95
+      ValveBiped.Bip01_R_UpperArm ( 71 verts, 1 convex elements) volume: 135.39
+      ValveBiped.Bip01_R_Forearm ( 57 verts, 1 convex elements) volume: 150.08
+      ValveBiped.Bip01_R_Hand  ( 27 verts, 1 convex elements) volume: 27.42
+      Collision model completed.
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/commandant_suna_sans_clan.mdl:
+      bones        17612 bytes (63)
+         animation       x       y       ips    angle
+      animations    2644 bytes (3 anims) (3 frames) [0:01]
+      sequences      900 bytes (3 seq) 
+      ik/pose        692 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       144 bytes
+      keyvalues        0 bytes
+      bone transforms     8632 bytes
+      bone flex driver       0 bytes
+      Collision model volume 6729.50 in^3
+      collision        0 bytes
+      total        32736
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/commandant_suna_sans_clan.vvd:
+      vertices   1350576 bytes (28137 vertices)
+      tangents    450192 bytes (28137 vertices)
+      total      1800832 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/commandant_suna_sans_clan.dx90.vtx":
+      body parts:         8 bytes
+      models:            68 bytes
+      model LODs:        60 bytes
+      meshes:            90 bytes
+      strip groups:     330 bytes
+      strips:           420 bytes
+      verts:         524808 bytes
+      indices:       670926 bytes
+      bone changes:    1928 bytes
+      everything:   1198614 bytes
+      
+      Completed "commandant_suna_sans_clan.qc"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\commandant_suna_sans_clan.dx90.vtx" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\commandant_suna_sans_clan.mdl" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\commandant_suna_sans_clan.phy" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\commandant_suna_sans_clan.vvd" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+  ... Compiling "commandant_suna_sans_clan\commandant_suna_sans_clan.qc" finished. Check above for any errors.
+
+  Compiling "goro_chef_zen\goro_chef_zen.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\rodzl\desktop\travail\cmj_homme_suna\goro_chef_zen\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\"
+      g_path:  "goro_chef_zen.qc"
+      Building binary model files...
+      Working on "goro_chef_zen.qc"
+      SMD MODEL goro_chef_zen.smd
+      SMD MODEL goro_chef_zen_1.smd
+      SMD MODEL goro_chef_zen_2.smd
+      SMD MODEL goro_chef_zen_3.smd
+      Processing $shadowlod
+      SMD MODEL anims/reference_male.smd
+      SMD MODEL anims/proportions.smd
+      SMD MODEL ../physics.smd
+      WARNING: model has too many verts, cutting into multiple models
+      Processing LOD for material: armure_zen
+      Lod 1: vertexes: 49029 (27186 new)
+      Lod 2: vertexes: 59824 (10795 new)
+      Lod 3: vertexes: 77170 (17346 new)
+      Processing LOD for material: logo_zen
+      Lod 1: vertexes: 77380 (210 new)
+      Lod 2: vertexes: 77463 (83 new)
+      Lod 3: vertexes: 77547 (84 new)
+      Processing LOD for material: mat_skin
+      Lod 1: vertexes: 78388 (841 new)
+      Lod 2: vertexes: 78419 (31 new)
+      Lod 3: vertexes: 78886 (467 new)
+      Processing LOD for material: armure_zen
+      Lod 2: vertexes: 21912 (69 new)
+      Lod 3: vertexes: 29670 (7758 new)
+      Processing LOD for material: logo_zen
+      Processing LOD for material: mat_skin
+      Processing LOD for material: armure_zen
+      Lod 2: vertexes: 9713 (410 new)
+      Lod 3: vertexes: 17994 (8281 new)
+      Processing LOD for material: logo_zen
+      Lod 3: vertexes: 18476 (234 new)
+      Processing LOD for material: mat_skin
+      Lod 2: vertexes: 19331 (12 new)
+      Lod 3: vertexes: 20102 (771 new)
+      Processing jointed collision model
+      ValveBiped.Bip01_Pelvis  ( 88 verts, 1 convex elements) volume: 589.58
+      ValveBiped.Bip01_L_Thigh ( 56 verts, 1 convex elements) volume: 703.09
+      ValveBiped.Bip01_L_Calf  ( 65 verts, 1 convex elements) volume: 399.90
+      ValveBiped.Bip01_L_Foot  ( 49 verts, 1 convex elements) volume: 119.04
+      ValveBiped.Bip01_R_Thigh ( 54 verts, 1 convex elements) volume: 696.89
+      ValveBiped.Bip01_R_Calf  ( 59 verts, 1 convex elements) volume: 388.63
+      ValveBiped.Bip01_R_Foot  ( 47 verts, 1 convex elements) volume: 135.57
+      ValveBiped.Bip01_Spine2  (110 verts, 1 convex elements) volume: 1100.68
+      WARNING: PERFORMANCE (): Collision model will not support the fastest tracing code
+      ValveBiped.Bip01_Spine4  (145 verts, 1 convex elements) volume: 1659.36
+      ValveBiped.Bip01_Head1   ( 66 verts, 1 convex elements) volume: 242.72
+      ValveBiped.Bip01_L_Clavicle ( 29 verts, 1 convex elements) volume: 31.42
+      ValveBiped.Bip01_L_UpperArm ( 59 verts, 1 convex elements) volume: 143.08
+      ValveBiped.Bip01_L_Forearm ( 58 verts, 1 convex elements) volume: 148.17
+      ValveBiped.Bip01_L_Hand  ( 28 verts, 1 convex elements) volume: 27.51
+      ValveBiped.Bip01_R_Clavicle ( 29 verts, 1 convex elements) volume: 30.95
+      ValveBiped.Bip01_R_UpperArm ( 71 verts, 1 convex elements) volume: 135.39
+      ValveBiped.Bip01_R_Forearm ( 57 verts, 1 convex elements) volume: 150.08
+      ValveBiped.Bip01_R_Hand  ( 27 verts, 1 convex elements) volume: 27.42
+      Collision model completed.
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/goro_chef_zen.mdl:
+      bones        21508 bytes (75)
+         animation       x       y       ips    angle
+      animations    2652 bytes (3 anims) (3 frames) [0:01]
+      sequences      948 bytes (3 seq) 
+      ik/pose       1020 bytes
+      ERROR: Too many verts in model. (78886 verts, MAXSTUDIOVERTS==65536)
+      ERROR: Aborted Processing on 'atg_playermodel/tenues/goro_chef_zen.mdl'
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\goro_chef_zen.mdl" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+  ... Compiling "goro_chef_zen\goro_chef_zen.qc" finished. Check above for any errors.
+
+  Compiling "kage_suna_kira\kage_suna_kira.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\rodzl\desktop\travail\cmj_homme_suna\kage_suna_kira\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\"
+      g_path:  "kage_suna_kira.qc"
+      Building binary model files...
+      Working on "kage_suna_kira.qc"
+      SMD MODEL kage_suna_kira.smd
+      SMD MODEL kage_suna_kira_1.smd
+      SMD MODEL kage_suna_kira_2.smd
+      SMD MODEL kage_suna_kira_3.smd
+      Processing $shadowlod
+      SMD MODEL anims/reference_male.smd
+      SMD MODEL anims/proportions.smd
+      SMD MODEL ../physics.smd
+      Processing LOD for material: kira_kage
+      Lod 1: vertexes: 12319 (23 new)
+      Lod 2: vertexes: 12949 (630 new)
+      Lod 3: vertexes: 16910 (3961 new)
+      Processing LOD for material: mat_skin
+      Lod 3: vertexes: 17136 (106 new)
+      Processing jointed collision model
+      ValveBiped.Bip01_Pelvis  ( 88 verts, 1 convex elements) volume: 589.58
+      ValveBiped.Bip01_L_Thigh ( 56 verts, 1 convex elements) volume: 703.09
+      ValveBiped.Bip01_L_Calf  ( 65 verts, 1 convex elements) volume: 399.90
+      ValveBiped.Bip01_L_Foot  ( 49 verts, 1 convex elements) volume: 119.04
+      ValveBiped.Bip01_R_Thigh ( 54 verts, 1 convex elements) volume: 696.89
+      ValveBiped.Bip01_R_Calf  ( 59 verts, 1 convex elements) volume: 388.63
+      ValveBiped.Bip01_R_Foot  ( 47 verts, 1 convex elements) volume: 135.57
+      ValveBiped.Bip01_Spine2  (110 verts, 1 convex elements) volume: 1100.68
+      WARNING: PERFORMANCE (): Collision model will not support the fastest tracing code
+      ValveBiped.Bip01_Spine4  (145 verts, 1 convex elements) volume: 1659.36
+      ValveBiped.Bip01_Head1   ( 66 verts, 1 convex elements) volume: 242.72
+      ValveBiped.Bip01_L_Clavicle ( 29 verts, 1 convex elements) volume: 31.42
+      ValveBiped.Bip01_L_UpperArm ( 59 verts, 1 convex elements) volume: 143.08
+      ValveBiped.Bip01_L_Forearm ( 58 verts, 1 convex elements) volume: 148.17
+      ValveBiped.Bip01_L_Hand  ( 28 verts, 1 convex elements) volume: 27.51
+      ValveBiped.Bip01_R_Clavicle ( 29 verts, 1 convex elements) volume: 30.95
+      ValveBiped.Bip01_R_UpperArm ( 71 verts, 1 convex elements) volume: 135.39
+      ValveBiped.Bip01_R_Forearm ( 57 verts, 1 convex elements) volume: 150.08
+      ValveBiped.Bip01_R_Hand  ( 27 verts, 1 convex elements) volume: 27.42
+      Collision model completed.
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/kage_suna_kira.mdl:
+      bones        15480 bytes (61)
+         animation       x       y       ips    angle
+      animations    2616 bytes (3 anims) (3 frames) [0:01]
+      sequences      892 bytes (3 seq) 
+      ik/pose        692 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       144 bytes
+      keyvalues        0 bytes
+      bone transforms     8360 bytes
+      bone flex driver       0 bytes
+      Collision model volume 6729.50 in^3
+      collision        0 bytes
+      total        30236
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/kage_suna_kira.vvd:
+      vertices    822528 bytes (17136 vertices)
+      tangents    274176 bytes (17136 vertices)
+      total      1096768 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/kage_suna_kira.dx90.vtx":
+      body parts:         8 bytes
+      models:            68 bytes
+      model LODs:        60 bytes
+      meshes:            90 bytes
+      strip groups:     330 bytes
+      strips:           350 bytes
+      verts:         378747 bytes
+      indices:       403740 bytes
+      bone changes:     936 bytes
+      everything:    784305 bytes
+      
+      Completed "kage_suna_kira.qc"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\kage_suna_kira.dx90.vtx" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\kage_suna_kira.mdl" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\kage_suna_kira.phy" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\kage_suna_kira.vvd" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+  ... Compiling "kage_suna_kira\kage_suna_kira.qc" finished. Check above for any errors.
+
+  Compiling "m_kazekage\m_kazekage.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\rodzl\desktop\travail\cmj_homme_suna\m_kazekage\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\"
+      g_path:  "m_kazekage.qc"
+      Building binary model files...
+      Working on "m_kazekage.qc"
+      SMD MODEL m_kazekage.smd
+      SMD MODEL m_kazekage_1.smd
+      SMD MODEL m_kazekage_2.smd
+      SMD MODEL m_kazekage_3.smd
+      Processing $shadowlod
+      SMD MODEL anims/reference_male.smd
+      SMD MODEL anims/proportions.smd
+      SMD MODEL ../physics.smd
+      Processing LOD for material: m_kazekage
+      Lod 1: vertexes: 4775 (333 new)
+      Lod 2: vertexes: 6033 (1258 new)
+      Lod 3: vertexes: 8099 (2066 new)
+      Processing LOD for material: m_kazekage_c
+      Lod 1: vertexes: 11902 (540 new)
+      Lod 2: vertexes: 12447 (545 new)
+      Lod 3: vertexes: 13314 (867 new)
+      Processing LOD for material: m_kazekage_b
+      Lod 1: vertexes: 13762 (51 new)
+      Lod 2: vertexes: 13826 (64 new)
+      Lod 3: vertexes: 13933 (107 new)
+      Processing LOD for material: mat_skin
+      Lod 1: vertexes: 16509 (104 new)
+      Lod 2: vertexes: 17596 (1087 new)
+      Lod 3: vertexes: 18673 (1077 new)
+      Processing LOD for material: m_kazekage_r
+      Lod 1: vertexes: 21529 (144 new)
+      Lod 2: vertexes: 22036 (507 new)
+      Lod 3: vertexes: 22595 (559 new)
+      Processing jointed collision model
+      ValveBiped.Bip01_Pelvis  ( 88 verts, 1 convex elements) volume: 589.58
+      ValveBiped.Bip01_L_Thigh ( 56 verts, 1 convex elements) volume: 703.09
+      ValveBiped.Bip01_L_Calf  ( 65 verts, 1 convex elements) volume: 399.90
+      ValveBiped.Bip01_L_Foot  ( 49 verts, 1 convex elements) volume: 119.04
+      ValveBiped.Bip01_R_Thigh ( 54 verts, 1 convex elements) volume: 696.89
+      ValveBiped.Bip01_R_Calf  ( 59 verts, 1 convex elements) volume: 388.63
+      ValveBiped.Bip01_R_Foot  ( 47 verts, 1 convex elements) volume: 135.57
+      ValveBiped.Bip01_Spine2  (110 verts, 1 convex elements) volume: 1100.68
+      WARNING: PERFORMANCE (): Collision model will not support the fastest tracing code
+      ValveBiped.Bip01_Spine4  (145 verts, 1 convex elements) volume: 1659.36
+      ValveBiped.Bip01_Head1   ( 66 verts, 1 convex elements) volume: 242.72
+      ValveBiped.Bip01_L_Clavicle ( 29 verts, 1 convex elements) volume: 31.42
+      ValveBiped.Bip01_L_UpperArm ( 59 verts, 1 convex elements) volume: 143.08
+      ValveBiped.Bip01_L_Forearm ( 58 verts, 1 convex elements) volume: 148.17
+      ValveBiped.Bip01_L_Hand  ( 28 verts, 1 convex elements) volume: 27.51
+      ValveBiped.Bip01_R_Clavicle ( 29 verts, 1 convex elements) volume: 30.95
+      ValveBiped.Bip01_R_UpperArm ( 71 verts, 1 convex elements) volume: 135.39
+      ValveBiped.Bip01_R_Forearm ( 57 verts, 1 convex elements) volume: 150.08
+      ValveBiped.Bip01_R_Hand  ( 27 verts, 1 convex elements) volume: 27.42
+      Collision model completed.
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/m_kazekage.mdl:
+      bones        18524 bytes (65)
+         animation       x       y       ips    angle
+      animations    2644 bytes (3 anims) (3 frames) [0:01]
+      sequences      908 bytes (3 seq) 
+      ik/pose        692 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       344 bytes
+      keyvalues        0 bytes
+      bone transforms     8904 bytes
+      bone flex driver       0 bytes
+      Collision model volume 6729.50 in^3
+      collision        0 bytes
+      total        34508
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/m_kazekage.vvd:
+      vertices   1084560 bytes (22595 vertices)
+      tangents    361520 bytes (22595 vertices)
+      total      1446144 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/m_kazekage.dx90.vtx":
+      body parts:         8 bytes
+      models:            68 bytes
+      model LODs:        60 bytes
+      meshes:           225 bytes
+      strip groups:     825 bytes
+      strips:           875 bytes
+      verts:         412263 bytes
+      indices:       476184 bytes
+      bone changes:    3480 bytes
+      everything:    893964 bytes
+      
+      Completed "m_kazekage.qc"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\m_kazekage.dx90.vtx" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\m_kazekage.mdl" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\m_kazekage.phy" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\m_kazekage.vvd" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+  ... Compiling "m_kazekage\m_kazekage.qc" finished. Check above for any errors.
+
+  Compiling "xsiphar_suna_cmj\xsiphar_suna_cmj.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\rodzl\desktop\travail\cmj_homme_suna\xsiphar_suna_cmj\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\"
+      g_path:  "xsiphar_suna_cmj.qc"
+      Building binary model files...
+      Working on "xsiphar_suna_cmj.qc"
+      SMD MODEL xsiphar_suna_cmj.smd
+      SMD MODEL xsiphar_suna_cmj_1.smd
+      SMD MODEL xsiphar_suna_cmj_2.smd
+      SMD MODEL xsiphar_suna_cmj_3.smd
+      Processing $shadowlod
+      SMD MODEL anims/reference_male.smd
+      SMD MODEL anims/proportions.smd
+      SMD MODEL ../physics.smd
+      WARNING: model has too many verts, cutting into multiple models
+      Processing LOD for material: xsiphar_suna_cmj
+      Lod 1: vertexes: 26022 (4179 new)
+      Lod 2: vertexes: 30927 (4905 new)
+      Lod 3: vertexes: 38158 (7231 new)
+      Processing LOD for material: xsiphar_suna_cmj_griffure
+      Lod 1: vertexes: 38211 (53 new)
+      Lod 2: vertexes: 38215 (4 new)
+      Lod 3: vertexes: 38251 (36 new)
+      Processing LOD for material: mat_skin
+      Lod 1: vertexes: 39280 (1029 new)
+      Lod 2: vertexes: 39698 (418 new)
+      Lod 3: vertexes: 40159 (461 new)
+      Processing LOD for material: xsiphar_suna_cmj
+      Lod 2: vertexes: 5898 (46 new)
+      Lod 3: vertexes: 10498 (4600 new)
+      Processing LOD for material: xsiphar_suna_cmj_griffure
+      Lod 3: vertexes: 10610 (56 new)
+      Processing LOD for material: mat_skin
+      Lod 2: vertexes: 11699 (46 new)
+      Lod 3: vertexes: 12682 (983 new)
+      Processing jointed collision model
+      ValveBiped.Bip01_Pelvis  ( 88 verts, 1 convex elements) volume: 589.58
+      ValveBiped.Bip01_L_Thigh ( 56 verts, 1 convex elements) volume: 703.15
+      ValveBiped.Bip01_L_Calf  ( 65 verts, 1 convex elements) volume: 399.90
+      ValveBiped.Bip01_L_Foot  ( 49 verts, 1 convex elements) volume: 119.04
+      ValveBiped.Bip01_R_Thigh ( 54 verts, 1 convex elements) volume: 696.89
+      ValveBiped.Bip01_R_Calf  ( 59 verts, 1 convex elements) volume: 388.63
+      ValveBiped.Bip01_R_Foot  ( 47 verts, 1 convex elements) volume: 135.57
+      ValveBiped.Bip01_Spine2  (110 verts, 1 convex elements) volume: 1100.67
+      WARNING: PERFORMANCE (): Collision model will not support the fastest tracing code
+      ValveBiped.Bip01_Spine4  (145 verts, 1 convex elements) volume: 1659.36
+      ValveBiped.Bip01_Head1   ( 66 verts, 1 convex elements) volume: 242.72
+      ValveBiped.Bip01_L_Clavicle ( 29 verts, 1 convex elements) volume: 31.42
+      ValveBiped.Bip01_L_UpperArm ( 59 verts, 1 convex elements) volume: 143.08
+      ValveBiped.Bip01_L_Forearm ( 58 verts, 1 convex elements) volume: 148.17
+      ValveBiped.Bip01_L_Hand  ( 28 verts, 1 convex elements) volume: 27.51
+      ValveBiped.Bip01_R_Clavicle ( 29 verts, 1 convex elements) volume: 30.95
+      ValveBiped.Bip01_R_UpperArm ( 71 verts, 1 convex elements) volume: 135.39
+      ValveBiped.Bip01_R_Forearm ( 57 verts, 1 convex elements) volume: 150.08
+      ValveBiped.Bip01_R_Hand  ( 27 verts, 1 convex elements) volume: 27.42
+      Collision model completed.
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/xsiphar_suna_cmj.mdl:
+      bones        16040 bytes (57)
+         animation       x       y       ips    angle
+      animations    2600 bytes (3 anims) (3 frames) [0:01]
+      sequences      876 bytes (3 seq) 
+      ik/pose        856 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       212 bytes
+      keyvalues        0 bytes
+      bone transforms     7816 bytes
+      bone flex driver       0 bytes
+      Collision model volume 6729.54 in^3
+      collision        0 bytes
+      total        30856
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/xsiphar_suna_cmj.vvd:
+      vertices   1927632 bytes (40159 vertices)
+      vertices    608736 bytes (12682 vertices)
+      tangents    642544 bytes (40159 vertices)
+      tangents    202912 bytes (12682 vertices)
+      total      3381888 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/xsiphar_suna_cmj.dx90.vtx":
+      body parts:        16 bytes
+      models:           136 bytes
+      model LODs:       120 bytes
+      meshes:           270 bytes
+      strip groups:     924 bytes
+      strips:           980 bytes
+      verts:        1106388 bytes
+      indices:      1293696 bytes
+      bone changes:    3304 bytes
+      everything:   2405750 bytes
+      
+      Completed "xsiphar_suna_cmj.qc"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\xsiphar_suna_cmj.dx90.vtx" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\xsiphar_suna_cmj.mdl" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\xsiphar_suna_cmj.phy" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\xsiphar_suna_cmj.vvd" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+  ... Compiling "xsiphar_suna_cmj\xsiphar_suna_cmj.qc" finished. Check above for any errors.

@@ -1,0 +1,121 @@
+// Created by Crowbar 0.74
+
+  Compiling "chunin_blessee_black.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\rodzl\desktop\travail\neutre_event\chunin_blessee_black\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\"
+      g_path:  "chunin_blessee_black.qc"
+      Building binary model files...
+      Working on "chunin_blessee_black.qc"
+      SMD MODEL chunin_blessee_black.smd
+      SMD MODEL chunin_blessee_black_1.smd
+      SMD MODEL chunin_blessee_black_2.smd
+      SMD MODEL chunin_blessee_black_3.smd
+      Processing $shadowlod
+      SMD MODEL anims/reference_male.smd
+      SMD MODEL anims/proportions.smd
+      SMD MODEL ../physics.smd
+      WARNING: model has too many verts, cutting into multiple models
+      Processing LOD for material: chunin_blessee_black
+      Lod 1: vertexes: 28119 (6276 new)
+      Lod 2: vertexes: 30585 (2466 new)
+      Lod 3: vertexes: 40668 (10083 new)
+      Processing LOD for material: mat_skin
+      Lod 1: vertexes: 43679 (3011 new)
+      Lod 2: vertexes: 45004 (1325 new)
+      Lod 3: vertexes: 46678 (1674 new)
+      Processing LOD for material: infini_black
+      Lod 1: vertexes: 46720 (42 new)
+      Lod 2: vertexes: 46736 (16 new)
+      Lod 3: vertexes: 46749 (13 new)
+      Processing LOD for material: chunin_blessee_black
+      Lod 2: vertexes: 22326 (483 new)
+      Lod 3: vertexes: 37541 (15215 new)
+      Processing LOD for material: mat_skin
+      Processing LOD for material: infini_black
+      Processing LOD for material: chunin_blessee_black
+      Lod 2: vertexes: 22228 (385 new)
+      Lod 3: vertexes: 35909 (13681 new)
+      Processing LOD for material: mat_skin
+      Processing LOD for material: infini_black
+      Processing LOD for material: chunin_blessee_black
+      Lod 2: vertexes: 16606 (178 new)
+      Lod 3: vertexes: 26849 (10243 new)
+      Processing LOD for material: mat_skin
+      Lod 2: vertexes: 33772 (2695 new)
+      Lod 3: vertexes: 37987 (4215 new)
+      Processing LOD for material: infini_black
+      Lod 3: vertexes: 38723 (368 new)
+      Processing jointed collision model
+      ValveBiped.Bip01_Pelvis  ( 88 verts, 1 convex elements) volume: 589.58
+      ValveBiped.Bip01_L_Thigh ( 56 verts, 1 convex elements) volume: 703.15
+      ValveBiped.Bip01_L_Calf  ( 65 verts, 1 convex elements) volume: 399.90
+      ValveBiped.Bip01_L_Foot  ( 49 verts, 1 convex elements) volume: 119.04
+      ValveBiped.Bip01_R_Thigh ( 54 verts, 1 convex elements) volume: 696.89
+      ValveBiped.Bip01_R_Calf  ( 59 verts, 1 convex elements) volume: 388.67
+      ValveBiped.Bip01_R_Foot  ( 47 verts, 1 convex elements) volume: 135.57
+      ValveBiped.Bip01_Spine2  (110 verts, 1 convex elements) volume: 1100.68
+      WARNING: PERFORMANCE (): Collision model will not support the fastest tracing code
+      ValveBiped.Bip01_Spine4  (145 verts, 1 convex elements) volume: 1659.36
+      ValveBiped.Bip01_Head1   ( 66 verts, 1 convex elements) volume: 242.68
+      ValveBiped.Bip01_L_Clavicle ( 29 verts, 1 convex elements) volume: 31.42
+      ValveBiped.Bip01_L_UpperArm ( 59 verts, 1 convex elements) volume: 143.08
+      ValveBiped.Bip01_L_Forearm ( 58 verts, 1 convex elements) volume: 148.17
+      ValveBiped.Bip01_L_Hand  ( 28 verts, 1 convex elements) volume: 27.51
+      ValveBiped.Bip01_R_Clavicle ( 29 verts, 1 convex elements) volume: 30.95
+      ValveBiped.Bip01_R_UpperArm ( 71 verts, 1 convex elements) volume: 135.39
+      ValveBiped.Bip01_R_Forearm ( 57 verts, 1 convex elements) volume: 150.08
+      ValveBiped.Bip01_R_Hand  ( 27 verts, 1 convex elements) volume: 27.42
+      Collision model completed.
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/chunin_blessee_black.mdl:
+      bones        21644 bytes (75)
+         animation       x       y       ips    angle
+      animations    2904 bytes (3 anims) (3 frames) [0:01]
+      sequences      948 bytes (3 seq) 
+      ik/pose       1184 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       212 bytes
+      keyvalues        0 bytes
+      bone transforms    10264 bytes
+      bone flex driver       0 bytes
+      Collision model volume 6729.56 in^3
+      collision        0 bytes
+      total        40644
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/chunin_blessee_black.vvd:
+      vertices   2243952 bytes (46749 vertices)
+      vertices   1801968 bytes (37541 vertices)
+      vertices   1723632 bytes (35909 vertices)
+      vertices   1858704 bytes (38723 vertices)
+      tangents    747984 bytes (46749 vertices)
+      tangents    600656 bytes (37541 vertices)
+      tangents    574544 bytes (35909 vertices)
+      tangents    619568 bytes (38723 vertices)
+      total      10171072 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/chunin_blessee_black.dx90.vtx":
+      body parts:        32 bytes
+      models:           272 bytes
+      model LODs:       240 bytes
+      meshes:           540 bytes
+      strip groups:    1254 bytes
+      strips:          1540 bytes
+      verts:        3815568 bytes
+      indices:      4191312 bytes
+      bone changes:    8440 bytes
+      everything:   8018994 bytes
+      
+      Completed "chunin_blessee_black.qc"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\chunin_blessee_black.dx90.vtx" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\chunin_blessee_black.mdl" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\chunin_blessee_black.phy" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\chunin_blessee_black.vvd" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+  ... Compiling "chunin_blessee_black.qc" finished. Check above for any errors.

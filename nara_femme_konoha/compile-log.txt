@@ -1,0 +1,307 @@
+// Created by Crowbar 0.74
+
+  Compiling "goro_nara_g\goro_nara_g.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\rodzl\desktop\travail\nara_femme_konoha\goro_nara_g\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\"
+      g_path:  "goro_nara_g.qc"
+      Building binary model files...
+      Working on "goro_nara_g.qc"
+      SMD MODEL goro_nara_g.smd
+      SMD MODEL goro_nara_g_1.smd
+      SMD MODEL goro_nara_g_2.smd
+      SMD MODEL goro_nara_g_3.smd
+      Processing $shadowlod
+      SMD MODEL anims/reference_female.smd
+      SMD MODEL anims/proportions.smd
+      SMD MODEL ../physics.smd
+      WARNING: model has too many verts, cutting into multiple models
+      Processing LOD for material: clochette_nara
+      Lod 2: vertexes: 664 (16 new)
+      Lod 3: vertexes: 897 (233 new)
+      Processing LOD for material: cerf_nara_deux
+      Lod 2: vertexes: 986 (17 new)
+      Lod 3: vertexes: 1020 (34 new)
+      Processing LOD for material: logo_nara_deux
+      Lod 1: vertexes: 1228 (13 new)
+      Lod 2: vertexes: 1261 (33 new)
+      Lod 3: vertexes: 1345 (84 new)
+      Processing LOD for material: top_nara
+      Lod 1: vertexes: 33824 (11551 new)
+      Lod 2: vertexes: 39986 (6162 new)
+      Lod 3: vertexes: 52062 (12076 new)
+      Processing LOD for material: mat_skin
+      Lod 1: vertexes: 54719 (2657 new)
+      Lod 2: vertexes: 55996 (1277 new)
+      Lod 3: vertexes: 57231 (1235 new)
+      Processing LOD for material: clochette_nara
+      Processing LOD for material: cerf_nara_deux
+      Processing LOD for material: logo_nara_deux
+      Processing LOD for material: top_nara
+      Lod 2: vertexes: 13307 (170 new)
+      Lod 3: vertexes: 22297 (8990 new)
+      Processing LOD for material: mat_skin
+      Lod 2: vertexes: 27419 (2025 new)
+      Lod 3: vertexes: 30501 (3082 new)
+      Processing jointed collision model
+      ValveBiped.Bip01_Pelvis  ( 88 verts, 1 convex elements) volume: 589.58
+      ValveBiped.Bip01_L_Thigh ( 56 verts, 1 convex elements) volume: 703.09
+      ValveBiped.Bip01_L_Calf  ( 65 verts, 1 convex elements) volume: 399.90
+      ValveBiped.Bip01_L_Foot  ( 49 verts, 1 convex elements) volume: 119.04
+      ValveBiped.Bip01_R_Thigh ( 54 verts, 1 convex elements) volume: 696.89
+      ValveBiped.Bip01_R_Calf  ( 59 verts, 1 convex elements) volume: 388.63
+      ValveBiped.Bip01_R_Foot  ( 47 verts, 1 convex elements) volume: 135.57
+      ValveBiped.Bip01_Spine2  (110 verts, 1 convex elements) volume: 1100.68
+      WARNING: PERFORMANCE (): Collision model will not support the fastest tracing code
+      ValveBiped.Bip01_Spine4  (145 verts, 1 convex elements) volume: 1659.36
+      ValveBiped.Bip01_Head1   ( 66 verts, 1 convex elements) volume: 242.72
+      ValveBiped.Bip01_L_Clavicle ( 29 verts, 1 convex elements) volume: 31.42
+      ValveBiped.Bip01_L_UpperArm ( 59 verts, 1 convex elements) volume: 143.08
+      ValveBiped.Bip01_L_Forearm ( 58 verts, 1 convex elements) volume: 148.17
+      ValveBiped.Bip01_L_Hand  ( 28 verts, 1 convex elements) volume: 27.51
+      ValveBiped.Bip01_R_Clavicle ( 29 verts, 1 convex elements) volume: 30.95
+      ValveBiped.Bip01_R_UpperArm ( 71 verts, 1 convex elements) volume: 135.39
+      ValveBiped.Bip01_R_Forearm ( 57 verts, 1 convex elements) volume: 150.08
+      ValveBiped.Bip01_R_Hand  ( 27 verts, 1 convex elements) volume: 27.42
+      Collision model completed.
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/goro_nara_g.mdl:
+      bones        21848 bytes (75)
+         animation       x       y       ips    angle
+      animations    2696 bytes (3 anims) (3 frames) [0:01]
+      sequences      948 bytes (3 seq) 
+      ik/pose        856 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       344 bytes
+      keyvalues        0 bytes
+      bone transforms    10264 bytes
+      bone flex driver       0 bytes
+      Collision model volume 6729.50 in^3
+      collision        0 bytes
+      total        40196
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/goro_nara_g.vvd:
+      vertices   2747088 bytes (57231 vertices)
+      vertices   1464048 bytes (30501 vertices)
+      tangents    915696 bytes (57231 vertices)
+      tangents    488016 bytes (30501 vertices)
+      total      5614912 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/goro_nara_g.dx90.vtx":
+      body parts:        16 bytes
+      models:           136 bytes
+      model LODs:       120 bytes
+      meshes:           450 bytes
+      strip groups:    1122 bytes
+      strips:          1190 bytes
+      verts:        1756764 bytes
+      indices:      1853094 bytes
+      bone changes:    4984 bytes
+      everything:   3617792 bytes
+      
+      Completed "goro_nara_g.qc"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\goro_nara_g.dx90.vtx" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\goro_nara_g.mdl" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\goro_nara_g.phy" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\goro_nara_g.vvd" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Deleted empty temporary compile folder "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models".
+  ... Compiling "goro_nara_g\goro_nara_g.qc" finished. Check above for any errors.
+
+  Compiling "w_nara_chef\w_nara_chef.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\rodzl\desktop\travail\nara_femme_konoha\w_nara_chef\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\"
+      g_path:  "w_nara_chef.qc"
+      Building binary model files...
+      Working on "w_nara_chef.qc"
+      SMD MODEL w_nara_chef.smd
+      SMD MODEL w_nara_chef_1.smd
+      SMD MODEL w_nara_chef_2.smd
+      SMD MODEL w_nara_chef_3.smd
+      Processing $shadowlod
+      SMD MODEL anims/reference_female.smd
+      SMD MODEL anims/proportions.smd
+      SMD MODEL ../physics.smd
+      Processing LOD for material: w_nara_chef
+      Lod 1: vertexes: 12412 (668 new)
+      Lod 2: vertexes: 13772 (1360 new)
+      Lod 3: vertexes: 16942 (3170 new)
+      Processing LOD for material: w_nara_chef_t
+      Lod 1: vertexes: 27416 (374 new)
+      Lod 2: vertexes: 28709 (1293 new)
+      Lod 3: vertexes: 32213 (3504 new)
+      Processing jointed collision model
+      ValveBiped.Bip01_Pelvis  ( 88 verts, 1 convex elements) volume: 589.58
+      ValveBiped.Bip01_L_Thigh ( 56 verts, 1 convex elements) volume: 703.09
+      ValveBiped.Bip01_L_Calf  ( 65 verts, 1 convex elements) volume: 399.90
+      ValveBiped.Bip01_L_Foot  ( 49 verts, 1 convex elements) volume: 119.04
+      ValveBiped.Bip01_R_Thigh ( 54 verts, 1 convex elements) volume: 696.89
+      ValveBiped.Bip01_R_Calf  ( 59 verts, 1 convex elements) volume: 388.63
+      ValveBiped.Bip01_R_Foot  ( 47 verts, 1 convex elements) volume: 135.57
+      ValveBiped.Bip01_Spine2  (110 verts, 1 convex elements) volume: 1100.68
+      WARNING: PERFORMANCE (): Collision model will not support the fastest tracing code
+      ValveBiped.Bip01_Spine4  (145 verts, 1 convex elements) volume: 1659.36
+      ValveBiped.Bip01_Head1   ( 66 verts, 1 convex elements) volume: 242.72
+      ValveBiped.Bip01_L_Clavicle ( 29 verts, 1 convex elements) volume: 31.42
+      ValveBiped.Bip01_L_UpperArm ( 59 verts, 1 convex elements) volume: 143.08
+      ValveBiped.Bip01_L_Forearm ( 58 verts, 1 convex elements) volume: 148.17
+      ValveBiped.Bip01_L_Hand  ( 28 verts, 1 convex elements) volume: 27.51
+      ValveBiped.Bip01_R_Clavicle ( 29 verts, 1 convex elements) volume: 30.95
+      ValveBiped.Bip01_R_UpperArm ( 71 verts, 1 convex elements) volume: 135.39
+      ValveBiped.Bip01_R_Forearm ( 57 verts, 1 convex elements) volume: 150.08
+      ValveBiped.Bip01_R_Hand  ( 27 verts, 1 convex elements) volume: 27.42
+      Collision model completed.
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/w_nara_chef.mdl:
+      bones        14176 bytes (55)
+         animation       x       y       ips    angle
+      animations    2624 bytes (3 anims) (3 frames) [0:01]
+      sequences      868 bytes (3 seq) 
+      ik/pose        692 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       144 bytes
+      keyvalues        0 bytes
+      bone transforms     7544 bytes
+      bone flex driver       0 bytes
+      Collision model volume 6729.50 in^3
+      collision        0 bytes
+      total        28004
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/w_nara_chef.vvd:
+      vertices   1546224 bytes (32213 vertices)
+      tangents    515408 bytes (32213 vertices)
+      total      2061696 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/w_nara_chef.dx90.vtx":
+      body parts:         8 bytes
+      models:            68 bytes
+      model LODs:        60 bytes
+      meshes:            90 bytes
+      strip groups:     330 bytes
+      strips:           350 bytes
+      verts:         687276 bytes
+      indices:       731796 bytes
+      bone changes:    1240 bytes
+      everything:   1421194 bytes
+      
+      Completed "w_nara_chef.qc"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\w_nara_chef.dx90.vtx" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\w_nara_chef.mdl" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\w_nara_chef.phy" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\w_nara_chef.vvd" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Deleted empty temporary compile folder "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models".
+  ... Compiling "w_nara_chef\w_nara_chef.qc" finished. Check above for any errors.
+
+  Compiling "w_nara_tkc\w_nara_tkc.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\rodzl\desktop\travail\nara_femme_konoha\w_nara_tkc\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\"
+      g_path:  "w_nara_tkc.qc"
+      Building binary model files...
+      Working on "w_nara_tkc.qc"
+      SMD MODEL w_nara_tkc.smd
+      SMD MODEL w_nara_tkc_1.smd
+      SMD MODEL w_nara_tkc_2.smd
+      SMD MODEL w_nara_tkc_3.smd
+      Processing $shadowlod
+      SMD MODEL anims/reference_female.smd
+      SMD MODEL anims/proportions.smd
+      SMD MODEL ../physics.smd
+      WARNING: model has too many verts, cutting into multiple models
+      Processing LOD for material: mat_skin
+      Lod 1: vertexes: 3288 (68 new)
+      Lod 2: vertexes: 4457 (1169 new)
+      Lod 3: vertexes: 5973 (1516 new)
+      Processing LOD for material: w_nara_tkc
+      Lod 1: vertexes: 25029 (660 new)
+      Lod 2: vertexes: 26553 (1524 new)
+      Lod 3: vertexes: 34324 (7771 new)
+      Processing LOD for material: w_nara_tkc_logo
+      Lod 1: vertexes: 34603 (52 new)
+      Lod 2: vertexes: 34634 (31 new)
+      Lod 3: vertexes: 34740 (106 new)
+      Processing LOD for material: w_nara_tkc_da
+      Lod 1: vertexes: 35117 (377 new)
+      Lod 3: vertexes: 35434 (317 new)
+      Processing LOD for material: w_nara_tkc_f
+      Lod 1: vertexes: 41661 (6227 new)
+      Lod 2: vertexes: 43347 (1686 new)
+      Lod 3: vertexes: 45719 (2372 new)
+      Processing LOD for material: mat_skin
+      Processing LOD for material: w_nara_tkc
+      Processing LOD for material: w_nara_tkc_logo
+      Lod 3: vertexes: 160 (46 new)
+      Processing LOD for material: w_nara_tkc_da
+      Lod 3: vertexes: 1027 (354 new)
+      Processing LOD for material: w_nara_tkc_f
+      Lod 3: vertexes: 19855 (9414 new)
+      Processing jointed collision model
+      ValveBiped.Bip01_Pelvis  ( 88 verts, 1 convex elements) volume: 589.58
+      ValveBiped.Bip01_L_Thigh ( 56 verts, 1 convex elements) volume: 703.09
+      ValveBiped.Bip01_L_Calf  ( 65 verts, 1 convex elements) volume: 399.90
+      ValveBiped.Bip01_L_Foot  ( 49 verts, 1 convex elements) volume: 119.04
+      ValveBiped.Bip01_R_Thigh ( 54 verts, 1 convex elements) volume: 696.89
+      ValveBiped.Bip01_R_Calf  ( 59 verts, 1 convex elements) volume: 388.63
+      ValveBiped.Bip01_R_Foot  ( 47 verts, 1 convex elements) volume: 135.57
+      ValveBiped.Bip01_Spine2  (110 verts, 1 convex elements) volume: 1100.68
+      WARNING: PERFORMANCE (): Collision model will not support the fastest tracing code
+      ValveBiped.Bip01_Spine4  (145 verts, 1 convex elements) volume: 1659.36
+      ValveBiped.Bip01_Head1   ( 66 verts, 1 convex elements) volume: 242.72
+      ValveBiped.Bip01_L_Clavicle ( 29 verts, 1 convex elements) volume: 31.42
+      ValveBiped.Bip01_L_UpperArm ( 59 verts, 1 convex elements) volume: 143.08
+      ValveBiped.Bip01_L_Forearm ( 58 verts, 1 convex elements) volume: 148.17
+      ValveBiped.Bip01_L_Hand  ( 28 verts, 1 convex elements) volume: 27.51
+      ValveBiped.Bip01_R_Clavicle ( 29 verts, 1 convex elements) volume: 30.95
+      ValveBiped.Bip01_R_UpperArm ( 71 verts, 1 convex elements) volume: 135.39
+      ValveBiped.Bip01_R_Forearm ( 57 verts, 1 convex elements) volume: 150.08
+      ValveBiped.Bip01_R_Hand  ( 27 verts, 1 convex elements) volume: 27.42
+      Collision model completed.
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/w_nara_tkc.mdl:
+      bones        20940 bytes (73)
+         animation       x       y       ips    angle
+      animations    2692 bytes (3 anims) (3 frames) [0:01]
+      sequences      940 bytes (3 seq) 
+      ik/pose        856 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       344 bytes
+      keyvalues        0 bytes
+      bone transforms     9992 bytes
+      bone flex driver       0 bytes
+      Collision model volume 6729.50 in^3
+      collision        0 bytes
+      total        38976
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/w_nara_tkc.vvd:
+      vertices   2194512 bytes (45719 vertices)
+      vertices    953040 bytes (19855 vertices)
+      tangents    731504 bytes (45719 vertices)
+      tangents    317680 bytes (19855 vertices)
+      total      4196800 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/w_nara_tkc.dx90.vtx":
+      body parts:        16 bytes
+      models:           136 bytes
+      model LODs:       120 bytes
+      meshes:           450 bytes
+      strip groups:    1254 bytes
+      strips:          1470 bytes
+      verts:        1342152 bytes
+      indices:      1359984 bytes
+      bone changes:    4328 bytes
+      everything:   2709826 bytes
+      
+      Completed "w_nara_tkc.qc"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\w_nara_tkc.dx90.vtx" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\w_nara_tkc.mdl" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\w_nara_tkc.phy" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\w_nara_tkc.vvd" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Deleted empty temporary compile folder "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models".
+  ... Compiling "w_nara_tkc\w_nara_tkc.qc" finished. Check above for any errors.

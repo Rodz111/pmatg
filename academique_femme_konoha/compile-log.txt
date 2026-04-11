@@ -1,11 +1,9 @@
 // Created by Crowbar 0.74
 
   Compiling "academique_femme\academique_femme.qc" ...
-    Output from compiler "D:\SteamLibrary\steamapps\common\GarrysMod\bin\win64\studiomdl.exe": 
-      StudioMDL.exe (Mar 16 2026) - Garry's Mod Edition (64-bit)
-      Adding filesystem addon 'd:\steamlibrary\steamapps\common\garrysmod\garrysmod\addons\atg_playermodels'
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
       qdir:    "c:\users\rodzl\desktop\travail\academique_femme_konoha\academique_femme\"
-      gamedir: "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\"
       g_path:  "academique_femme.qc"
       Building binary model files...
       Working on "academique_femme.qc"
@@ -14,7 +12,75 @@
       SMD MODEL academique_femme_2.smd
       SMD MODEL academique_femme_3.smd
       Processing $shadowlod
-      ERROR: c:\users\rodzl\desktop\travail\academique_femme_konoha\academique_femme\academique_femme.qc(194): - could not load file 'anims/reference_male'
-      ERROR: Aborted Processing on 'atg_playermodel/tenues/academique_femme.mdl'
-    CROWBAR: Deleted empty temporary compile folder "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models".
+      SMD MODEL anims/reference_female.smd
+      SMD MODEL anims/proportions.smd
+      SMD MODEL ../physics.smd
+      Processing LOD for material: mat_skin
+      Lod 2: vertexes: 4507 (1220 new)
+      Lod 3: vertexes: 6017 (1510 new)
+      Processing LOD for material: examinateur_konoha
+      Lod 1: vertexes: 23214 (114 new)
+      Lod 2: vertexes: 24235 (1021 new)
+      Lod 3: vertexes: 29899 (5664 new)
+      Processing jointed collision model
+      ValveBiped.Bip01_Pelvis  ( 88 verts, 1 convex elements) volume: 589.58
+      ValveBiped.Bip01_L_Thigh ( 56 verts, 1 convex elements) volume: 703.09
+      ValveBiped.Bip01_L_Calf  ( 65 verts, 1 convex elements) volume: 399.90
+      ValveBiped.Bip01_L_Foot  ( 49 verts, 1 convex elements) volume: 119.04
+      ValveBiped.Bip01_R_Thigh ( 54 verts, 1 convex elements) volume: 696.89
+      ValveBiped.Bip01_R_Calf  ( 59 verts, 1 convex elements) volume: 388.63
+      ValveBiped.Bip01_R_Foot  ( 47 verts, 1 convex elements) volume: 135.57
+      ValveBiped.Bip01_Spine2  (110 verts, 1 convex elements) volume: 1100.68
+      WARNING: PERFORMANCE (): Collision model will not support the fastest tracing code
+      ValveBiped.Bip01_Spine4  (145 verts, 1 convex elements) volume: 1659.36
+      ValveBiped.Bip01_Head1   ( 66 verts, 1 convex elements) volume: 242.72
+      ValveBiped.Bip01_L_Clavicle ( 29 verts, 1 convex elements) volume: 31.42
+      ValveBiped.Bip01_L_UpperArm ( 59 verts, 1 convex elements) volume: 143.08
+      ValveBiped.Bip01_L_Forearm ( 58 verts, 1 convex elements) volume: 148.17
+      ValveBiped.Bip01_L_Hand  ( 28 verts, 1 convex elements) volume: 27.51
+      ValveBiped.Bip01_R_Clavicle ( 29 verts, 1 convex elements) volume: 30.95
+      ValveBiped.Bip01_R_UpperArm ( 71 verts, 1 convex elements) volume: 135.39
+      ValveBiped.Bip01_R_Forearm ( 57 verts, 1 convex elements) volume: 150.08
+      ValveBiped.Bip01_R_Hand  ( 27 verts, 1 convex elements) volume: 27.42
+      Collision model completed.
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/academique_femme.mdl:
+      bones        21440 bytes (75)
+         animation       x       y       ips    angle
+      animations    2688 bytes (3 anims) (3 frames) [0:01]
+      sequences      948 bytes (3 seq) 
+      ik/pose        692 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       144 bytes
+      keyvalues        0 bytes
+      bone transforms    10264 bytes
+      bone flex driver       0 bytes
+      Collision model volume 6729.50 in^3
+      collision        0 bytes
+      total        38456
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/academique_femme.vvd:
+      vertices   1435152 bytes (29899 vertices)
+      tangents    478384 bytes (29899 vertices)
+      total      1913600 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/academique_femme.dx90.vtx":
+      body parts:         8 bytes
+      models:            68 bytes
+      model LODs:        60 bytes
+      meshes:            90 bytes
+      strip groups:     330 bytes
+      strips:           420 bytes
+      verts:         611856 bytes
+      indices:       654108 bytes
+      bone changes:    2616 bytes
+      everything:   1269532 bytes
+      
+      Completed "academique_femme.qc"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\academique_femme.dx90.vtx" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\academique_femme.mdl" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\academique_femme.phy" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\academique_femme.vvd" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Deleted empty temporary compile folder "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models".
   ... Compiling "academique_femme\academique_femme.qc" finished. Check above for any errors.

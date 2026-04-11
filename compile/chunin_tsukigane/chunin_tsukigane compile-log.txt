@@ -1,0 +1,108 @@
+// Created by Crowbar 0.74
+
+  Compiling "chunin_tsukigane.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\rodzl\desktop\travail\tsukigane_homme_suna\chunin_tsukigane\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\"
+      g_path:  "chunin_tsukigane.qc"
+      Building binary model files...
+      Working on "chunin_tsukigane.qc"
+      SMD MODEL chunin_tsukigane.smd
+      SMD MODEL chunin_tsukigane_1.smd
+      SMD MODEL chunin_tsukigane_2.smd
+      SMD MODEL chunin_tsukigane_3.smd
+      Processing $shadowlod
+      SMD MODEL anims/reference_male.smd
+      SMD MODEL anims/proportions.smd
+      SMD MODEL ../physics.smd
+      WARNING: model has too many verts, cutting into multiple models
+      Processing LOD for material: chunin_marionnettiste_sunaa
+      Lod 1: vertexes: 8657 (161 new)
+      Lod 2: vertexes: 9239 (582 new)
+      Lod 3: vertexes: 11765 (2526 new)
+      Processing LOD for material: logo_marron_tsukigane
+      Lod 1: vertexes: 27146 (2034 new)
+      Lod 2: vertexes: 29240 (2094 new)
+      Lod 3: vertexes: 32830 (3590 new)
+      Processing LOD for material: mat_skin
+      Lod 1: vertexes: 34676 (1846 new)
+      Lod 2: vertexes: 36009 (1333 new)
+      Lod 3: vertexes: 37222 (1213 new)
+      Processing LOD for material: plumes_tsukigane
+      Lod 1: vertexes: 37592 (370 new)
+      Lod 2: vertexes: 37644 (52 new)
+      Lod 3: vertexes: 37850 (206 new)
+      Processing LOD for material: chunin_marionnettiste_sunaa
+      Processing LOD for material: logo_marron_tsukigane
+      Lod 2: vertexes: 17505 (218 new)
+      Lod 3: vertexes: 27902 (10397 new)
+      Processing LOD for material: mat_skin
+      Lod 2: vertexes: 31635 (1753 new)
+      Lod 3: vertexes: 33604 (1969 new)
+      Processing LOD for material: plumes_tsukigane
+      Lod 3: vertexes: 34293 (306 new)
+      Processing jointed collision model
+      ValveBiped.Bip01_Pelvis  ( 88 verts, 1 convex elements) volume: 589.58
+      ValveBiped.Bip01_L_Thigh ( 56 verts, 1 convex elements) volume: 703.09
+      ValveBiped.Bip01_L_Calf  ( 65 verts, 1 convex elements) volume: 399.90
+      ValveBiped.Bip01_L_Foot  ( 49 verts, 1 convex elements) volume: 119.04
+      ValveBiped.Bip01_R_Thigh ( 54 verts, 1 convex elements) volume: 696.89
+      ValveBiped.Bip01_R_Calf  ( 59 verts, 1 convex elements) volume: 388.63
+      ValveBiped.Bip01_R_Foot  ( 47 verts, 1 convex elements) volume: 135.57
+      ValveBiped.Bip01_Spine2  (110 verts, 1 convex elements) volume: 1100.68
+      WARNING: PERFORMANCE (): Collision model will not support the fastest tracing code
+      ValveBiped.Bip01_Spine4  (145 verts, 1 convex elements) volume: 1659.36
+      ValveBiped.Bip01_Head1   ( 66 verts, 1 convex elements) volume: 242.68
+      ValveBiped.Bip01_L_Clavicle ( 29 verts, 1 convex elements) volume: 31.42
+      ValveBiped.Bip01_L_UpperArm ( 59 verts, 1 convex elements) volume: 143.08
+      ValveBiped.Bip01_L_Forearm ( 58 verts, 1 convex elements) volume: 148.17
+      ValveBiped.Bip01_L_Hand  ( 28 verts, 1 convex elements) volume: 27.51
+      ValveBiped.Bip01_R_Clavicle ( 29 verts, 1 convex elements) volume: 30.95
+      ValveBiped.Bip01_R_UpperArm ( 71 verts, 1 convex elements) volume: 135.39
+      ValveBiped.Bip01_R_Forearm ( 57 verts, 1 convex elements) volume: 150.08
+      ValveBiped.Bip01_R_Hand  ( 27 verts, 1 convex elements) volume: 27.42
+      Collision model completed.
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/chunin_tsukigane.mdl:
+      bones        18372 bytes (64)
+         animation       x       y       ips    angle
+      animations    2620 bytes (3 anims) (3 frames) [0:01]
+      sequences      904 bytes (3 seq) 
+      ik/pose        856 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       276 bytes
+      keyvalues        0 bytes
+      bone transforms     8768 bytes
+      bone flex driver       0 bytes
+      Collision model volume 6729.45 in^3
+      collision        0 bytes
+      total        34656
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/chunin_tsukigane.vvd:
+      vertices   1816800 bytes (37850 vertices)
+      vertices   1646064 bytes (34293 vertices)
+      tangents    605600 bytes (37850 vertices)
+      tangents    548688 bytes (34293 vertices)
+      total      4617216 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/chunin_tsukigane.dx90.vtx":
+      body parts:        16 bytes
+      models:           136 bytes
+      model LODs:       120 bytes
+      meshes:           360 bytes
+      strip groups:    1089 bytes
+      strips:          1155 bytes
+      verts:        1535301 bytes
+      indices:      1494354 bytes
+      bone changes:    4352 bytes
+      everything:   3036799 bytes
+      
+      Completed "chunin_tsukigane.qc"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\chunin_tsukigane.dx90.vtx" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\chunin_tsukigane.mdl" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\chunin_tsukigane.phy" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\chunin_tsukigane.vvd" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+  ... Compiling "chunin_tsukigane.qc" finished. Check above for any errors.

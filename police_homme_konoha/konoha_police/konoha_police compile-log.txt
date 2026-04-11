@@ -1,0 +1,113 @@
+// Created by Crowbar 0.74
+
+  Compiling "konoha_police.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\rodzl\desktop\travail\police_homme_konoha\konoha_police\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\"
+      g_path:  "konoha_police.qc"
+      Building binary model files...
+      Working on "konoha_police.qc"
+      SMD MODEL konoha_police.smd
+      SMD MODEL konoha_police_1.smd
+      SMD MODEL konoha_police_2.smd
+      SMD MODEL konoha_police_3.smd
+      Processing $shadowlod
+      SMD MODEL anims/reference_male.smd
+      SMD MODEL anims/proportions.smd
+      SMD MODEL ../physics.smd
+      WARNING: model has too many verts, cutting into multiple models
+      Processing LOD for material: texture_main
+      Lod 1: vertexes: 26517 (4674 new)
+      Lod 2: vertexes: 29167 (2650 new)
+      Lod 3: vertexes: 36927 (7760 new)
+      Processing LOD for material: mat_skin
+      Lod 1: vertexes: 39684 (2757 new)
+      Lod 2: vertexes: 41045 (1361 new)
+      Lod 3: vertexes: 42635 (1590 new)
+      Processing LOD for material: texture_logo_konoha
+      Lod 1: vertexes: 42822 (187 new)
+      Lod 2: vertexes: 42880 (58 new)
+      Lod 3: vertexes: 42927 (47 new)
+      Processing LOD for material: brassard
+      Lod 1: vertexes: 43084 (157 new)
+      Lod 2: vertexes: 43108 (24 new)
+      Lod 3: vertexes: 43147 (39 new)
+      Processing LOD for material: logo_police
+      Lod 1: vertexes: 43189 (42 new)
+      Lod 2: vertexes: 43190 (1 new)
+      Lod 3: vertexes: 43193 (3 new)
+      Processing LOD for material: texture_main
+      Lod 3: vertexes: 7715 (2634 new)
+      Processing LOD for material: mat_skin
+      Lod 2: vertexes: 12369 (1853 new)
+      Lod 3: vertexes: 15141 (2772 new)
+      Processing LOD for material: texture_logo_konoha
+      Lod 3: vertexes: 15769 (314 new)
+      Processing LOD for material: brassard
+      Processing LOD for material: logo_police
+      Processing jointed collision model
+      ValveBiped.Bip01_Pelvis  ( 88 verts, 1 convex elements) volume: 589.58
+      ValveBiped.Bip01_L_Thigh ( 56 verts, 1 convex elements) volume: 703.09
+      ValveBiped.Bip01_L_Calf  ( 65 verts, 1 convex elements) volume: 399.90
+      ValveBiped.Bip01_L_Foot  ( 49 verts, 1 convex elements) volume: 119.04
+      ValveBiped.Bip01_R_Thigh ( 54 verts, 1 convex elements) volume: 696.89
+      ValveBiped.Bip01_R_Calf  ( 59 verts, 1 convex elements) volume: 388.63
+      ValveBiped.Bip01_R_Foot  ( 47 verts, 1 convex elements) volume: 135.57
+      ValveBiped.Bip01_Spine2  (110 verts, 1 convex elements) volume: 1100.68
+      WARNING: PERFORMANCE (): Collision model will not support the fastest tracing code
+      ValveBiped.Bip01_Spine4  (145 verts, 1 convex elements) volume: 1659.36
+      ValveBiped.Bip01_Head1   ( 66 verts, 1 convex elements) volume: 242.72
+      ValveBiped.Bip01_L_Clavicle ( 29 verts, 1 convex elements) volume: 31.42
+      ValveBiped.Bip01_L_UpperArm ( 59 verts, 1 convex elements) volume: 143.08
+      ValveBiped.Bip01_L_Forearm ( 58 verts, 1 convex elements) volume: 148.17
+      ValveBiped.Bip01_L_Hand  ( 28 verts, 1 convex elements) volume: 27.51
+      ValveBiped.Bip01_R_Clavicle ( 29 verts, 1 convex elements) volume: 30.95
+      ValveBiped.Bip01_R_UpperArm ( 71 verts, 1 convex elements) volume: 135.39
+      ValveBiped.Bip01_R_Forearm ( 57 verts, 1 convex elements) volume: 150.08
+      ValveBiped.Bip01_R_Hand  ( 27 verts, 1 convex elements) volume: 27.42
+      Collision model completed.
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/konoha_police.mdl:
+      bones        15784 bytes (53)
+         animation       x       y       ips    angle
+      animations    2600 bytes (3 anims) (3 frames) [0:01]
+      sequences      860 bytes (3 seq) 
+      ik/pose        856 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       344 bytes
+      keyvalues        0 bytes
+      bone transforms     7272 bytes
+      bone flex driver       0 bytes
+      Collision model volume 6729.50 in^3
+      collision        0 bytes
+      total        30624
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/konoha_police.vvd:
+      vertices   2073264 bytes (43193 vertices)
+      vertices    766800 bytes (15975 vertices)
+      tangents    691088 bytes (43193 vertices)
+      tangents    255600 bytes (15975 vertices)
+      total      3786816 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/konoha_police.dx90.vtx":
+      body parts:        16 bytes
+      models:           136 bytes
+      model LODs:       120 bytes
+      meshes:           450 bytes
+      strip groups:    1518 bytes
+      strips:          1610 bytes
+      verts:        1215648 bytes
+      indices:      1298202 bytes
+      bone changes:    3544 bytes
+      everything:   2521160 bytes
+      
+      Completed "konoha_police.qc"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\konoha_police.dx90.vtx" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\konoha_police.mdl" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\konoha_police.phy" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\konoha_police.vvd" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Deleted empty temporary compile folder "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models".
+  ... Compiling "konoha_police.qc" finished. Check above for any errors.

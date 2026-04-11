@@ -1,0 +1,122 @@
+// Created by Crowbar 0.74
+
+  Compiling "commandant_guntai.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\rodzl\desktop\travail\police_homme_konoha\commandant_guntai\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\"
+      g_path:  "commandant_guntai.qc"
+      Building binary model files...
+      Working on "commandant_guntai.qc"
+      SMD MODEL commandant_guntai.smd
+      SMD MODEL commandant_guntai_1.smd
+      SMD MODEL commandant_guntai_2.smd
+      SMD MODEL commandant_guntai_3.smd
+      Processing $shadowlod
+      SMD MODEL anims/reference_male.smd
+      SMD MODEL anims/proportions.smd
+      SMD MODEL ../physics.smd
+      WARNING: model has too many verts, cutting into multiple models
+      Processing LOD for material: mat_skin
+      Lod 3: vertexes: 2170 (729 new)
+      Processing LOD for material: genin_g_neutre_white
+      Lod 1: vertexes: 31055 (8483 new)
+      Lod 2: vertexes: 38149 (7094 new)
+      Lod 3: vertexes: 49384 (11235 new)
+      Processing LOD for material: policier_femme
+      Lod 1: vertexes: 51211 (1827 new)
+      Lod 2: vertexes: 51860 (649 new)
+      Lod 3: vertexes: 52411 (551 new)
+      Processing LOD for material: chunin_confirme_masque_konoha
+      Lod 1: vertexes: 57150 (4739 new)
+      Lod 2: vertexes: 58292 (1142 new)
+      Lod 3: vertexes: 59949 (1657 new)
+      Processing LOD for material: mat_skin
+      Processing LOD for material: genin_g_neutre_white
+      Lod 2: vertexes: 27551 (5708 new)
+      Lod 3: vertexes: 43502 (15951 new)
+      Processing LOD for material: policier_femme
+      Processing LOD for material: chunin_confirme_masque_konoha
+      Processing LOD for material: mat_skin
+      Processing LOD for material: genin_g_neutre_white
+      Lod 2: vertexes: 26484 (4641 new)
+      Lod 3: vertexes: 42071 (15587 new)
+      Processing LOD for material: policier_femme
+      Processing LOD for material: chunin_confirme_masque_konoha
+      Processing LOD for material: mat_skin
+      Processing LOD for material: genin_g_neutre_white
+      Lod 2: vertexes: 24459 (3811 new)
+      Lod 3: vertexes: 38817 (14358 new)
+      Processing LOD for material: policier_femme
+      Lod 2: vertexes: 40021 (9 new)
+      Lod 3: vertexes: 40625 (604 new)
+      Processing LOD for material: chunin_confirme_masque_konoha
+      Processing LOD for material: mat_skin
+      Processing LOD for material: genin_g_neutre_white
+      Processing LOD for material: policier_femme
+      Lod 2: vertexes: 5269 (1638 new)
+      Lod 3: vertexes: 7506 (2237 new)
+      Processing LOD for material: chunin_confirme_masque_konoha
+      Lod 3: vertexes: 22388 (4378 new)
+      Processing jointed collision model
+      ValveBiped.Bip01_Pelvis  ( 88 verts, 1 convex elements) volume: 589.58
+      ValveBiped.Bip01_L_Thigh ( 56 verts, 1 convex elements) volume: 703.15
+      ValveBiped.Bip01_L_Calf  ( 65 verts, 1 convex elements) volume: 399.90
+      ValveBiped.Bip01_L_Foot  ( 49 verts, 1 convex elements) volume: 119.04
+      ValveBiped.Bip01_R_Thigh ( 54 verts, 1 convex elements) volume: 696.89
+      ValveBiped.Bip01_R_Calf  ( 59 verts, 1 convex elements) volume: 388.67
+      ValveBiped.Bip01_R_Foot  ( 47 verts, 1 convex elements) volume: 135.57
+      ValveBiped.Bip01_Spine2  (110 verts, 1 convex elements) volume: 1100.68
+      WARNING: PERFORMANCE (): Collision model will not support the fastest tracing code
+      ValveBiped.Bip01_Spine4  (145 verts, 1 convex elements) volume: 1659.36
+      ValveBiped.Bip01_Head1   ( 66 verts, 1 convex elements) volume: 242.68
+      ValveBiped.Bip01_L_Clavicle ( 29 verts, 1 convex elements) volume: 31.42
+      ValveBiped.Bip01_L_UpperArm ( 59 verts, 1 convex elements) volume: 143.08
+      ValveBiped.Bip01_L_Forearm ( 58 verts, 1 convex elements) volume: 148.17
+      ValveBiped.Bip01_L_Hand  ( 28 verts, 1 convex elements) volume: 27.51
+      ValveBiped.Bip01_R_Clavicle ( 29 verts, 1 convex elements) volume: 30.95
+      ValveBiped.Bip01_R_UpperArm ( 71 verts, 1 convex elements) volume: 135.39
+      ValveBiped.Bip01_R_Forearm ( 57 verts, 1 convex elements) volume: 150.08
+      ValveBiped.Bip01_R_Hand  ( 27 verts, 1 convex elements) volume: 27.42
+      Collision model completed.
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/commandant_guntai.mdl:
+      bones        21508 bytes (75)
+         animation       x       y       ips    angle
+      animations    2896 bytes (3 anims) (3 frames) [0:01]
+      sequences      948 bytes (3 seq) 
+      ik/pose       1348 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       276 bytes
+      keyvalues        0 bytes
+      bone transforms    10264 bytes
+      bone flex driver       0 bytes
+      Collision model volume 6729.56 in^3
+      collision        0 bytes
+      total        41692
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/commandant_guntai.vvd:
+      vertices   2877552 bytes (59949 vertices)
+      vertices   2088096 bytes (43502 vertices)
+      vertices   2019408 bytes (42071 vertices)
+      vertices   1950000 bytes (40625 vertices)
+      vertices   1074624 bytes (22388 vertices)
+      tangents    959184 bytes (59949 vertices)
+      tangents    696032 bytes (43502 vertices)
+      tangents    673136 bytes (42071 vertices)
+      tangents    650000 bytes (40625 vertices)
+      tangents    358208 bytes (22388 vertices)
+      total      13346304 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/commandant_guntai.dx90.vtx":
+      ERROR: 'EXCEPTION_ACCESS_VIOLATION' (assert: 1)
+      ERROR: Aborted Processing on 'atg_playermodel/tenues/commandant_guntai.mdl'
+  ... Compiling "commandant_guntai.qc" finished. Check above for any errors.

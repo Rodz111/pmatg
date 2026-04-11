@@ -6,14 +6,21 @@ $bodygroup "body"
 {
 	studio "booster_veste_plus.smd"
 }
+$bodygroup "body0"
+{
+	studio "booster_veste_plus0.smd"
+}
+
 $lod 10
 {
 	replacemodel "booster_veste_plus.smd" "booster_veste_plus_1.smd"
+	replacemodel "booster_veste_plus0.smd" "booster_veste_plus0_1.smd"
 	nofacial
 }
 $lod 20
 {
 	replacemodel "booster_veste_plus.smd" "booster_veste_plus_2.smd"
+	replacemodel "booster_veste_plus0.smd" "booster_veste_plus0_2.smd"
 	replacebone "ValveBiped.Bip01_R_Finger02" "ValveBiped.Bip01_R_Finger01"
 	replacebone "ValveBiped.Bip01_R_Finger42" "ValveBiped.Bip01_R_Finger41"
 	replacebone "ValveBiped.Bip01_R_Finger12" "ValveBiped.Bip01_R_Finger11"
@@ -31,6 +38,7 @@ $lod 20
 $lod 35
 {
 	replacemodel "booster_veste_plus.smd" "booster_veste_plus_3.smd"
+	replacemodel "booster_veste_plus0.smd" "booster_veste_plus0_3.smd"
         replacebone "ValveBiped.Bip01_Neck1" "ValveBiped.Bip01_Spine2"
         replacebone "ValveBiped.Bip01_Spine4" "ValveBiped.Bip01_Spine2"
         replacebone "ValveBiped.Bip01_Spine1" "ValveBiped.Bip01_Spine"
@@ -74,6 +82,7 @@ $lod 35
 $shadowlod
 {
 	replacemodel "booster_veste_plus.smd" "booster_veste_plus_3.smd"
+	replacemodel "booster_veste_plus0.smd" "booster_veste_plus0_3.smd"
         replacebone "ValveBiped.Bip01_Neck1" "ValveBiped.Bip01_Spine2"
         replacebone "ValveBiped.Bip01_Spine4" "ValveBiped.Bip01_Spine2"
         replacebone "ValveBiped.Bip01_Spine1" "ValveBiped.Bip01_Spine"

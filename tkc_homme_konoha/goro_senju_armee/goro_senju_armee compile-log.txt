@@ -1,0 +1,13 @@
+// Created by Crowbar 0.74
+
+  Compiling "goro_senju_armee.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\rodzl\desktop\travail\tkc_homme_konoha\goro_senju_armee\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\"
+      g_path:  "goro_senju_armee.qc"
+      Building binary model files...
+      Working on "goro_senju_armee.qc"
+      SMD MODEL goro_senju_armee.smd
+      SMD MODEL goro_senju_armee_1.smd
+    CROWBAR: Deleted empty temporary compile folder "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models".
+  ... Compiling "goro_senju_armee.qc" finished. Check above for any errors.

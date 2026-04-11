@@ -1,0 +1,165 @@
+// Created by Crowbar 0.74
+
+  Compiling "chunin_confirme_femme_suna_guerre\chunin_confirme_femme_suna_guerre.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\rodzl\desktop\travail\tkj_femme_suna\chunin_confirme_femme_suna_guerre\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\"
+      g_path:  "chunin_confirme_femme_suna_guerre.qc"
+      Building binary model files...
+      Working on "chunin_confirme_femme_suna_guerre.qc"
+      SMD MODEL chunin_confirme_femme_suna_guerre.smd
+      SMD MODEL chunin_confirme_femme_suna_guerre_1.smd
+      SMD MODEL chunin_confirme_femme_suna_guerre_2.smd
+      SMD MODEL chunin_confirme_femme_suna_guerre_3.smd
+      Processing $shadowlod
+      SMD MODEL anims/reference_female.smd
+      SMD MODEL anims/proportions.smd
+      SMD MODEL ../physics.smd
+      Processing LOD for material: mat_skin
+      Lod 3: vertexes: 1378 (514 new)
+      Processing LOD for material: chunin_confirme_masque_konoha
+      Lod 1: vertexes: 6753 (33 new)
+      Lod 2: vertexes: 6979 (226 new)
+      Lod 3: vertexes: 7966 (987 new)
+      Processing LOD for material: chunin_confirme_masque_guerre_suna
+      Lod 1: vertexes: 18501 (46 new)
+      Lod 2: vertexes: 19209 (708 new)
+      Lod 3: vertexes: 23118 (3909 new)
+      Processing jointed collision model
+      ValveBiped.Bip01_Pelvis  ( 88 verts, 1 convex elements) volume: 589.58
+      ValveBiped.Bip01_L_Thigh ( 56 verts, 1 convex elements) volume: 703.09
+      ValveBiped.Bip01_L_Calf  ( 65 verts, 1 convex elements) volume: 399.90
+      ValveBiped.Bip01_L_Foot  ( 49 verts, 1 convex elements) volume: 119.04
+      ValveBiped.Bip01_R_Thigh ( 54 verts, 1 convex elements) volume: 696.89
+      ValveBiped.Bip01_R_Calf  ( 59 verts, 1 convex elements) volume: 388.63
+      ValveBiped.Bip01_R_Foot  ( 47 verts, 1 convex elements) volume: 135.57
+      ValveBiped.Bip01_Spine2  (110 verts, 1 convex elements) volume: 1100.68
+      WARNING: PERFORMANCE (): Collision model will not support the fastest tracing code
+      ValveBiped.Bip01_Spine4  (145 verts, 1 convex elements) volume: 1659.36
+      ValveBiped.Bip01_Head1   ( 66 verts, 1 convex elements) volume: 242.72
+      ValveBiped.Bip01_L_Clavicle ( 29 verts, 1 convex elements) volume: 31.42
+      ValveBiped.Bip01_L_UpperArm ( 59 verts, 1 convex elements) volume: 143.08
+      ValveBiped.Bip01_L_Forearm ( 58 verts, 1 convex elements) volume: 148.17
+      ValveBiped.Bip01_L_Hand  ( 28 verts, 1 convex elements) volume: 27.51
+      ValveBiped.Bip01_R_Clavicle ( 29 verts, 1 convex elements) volume: 30.95
+      ValveBiped.Bip01_R_UpperArm ( 71 verts, 1 convex elements) volume: 135.39
+      ValveBiped.Bip01_R_Forearm ( 57 verts, 1 convex elements) volume: 150.08
+      ValveBiped.Bip01_R_Hand  ( 27 verts, 1 convex elements) volume: 27.42
+      Collision model completed.
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/chunin_confirme_femme_suna_guerre.mdl:
+      bones        15844 bytes (63)
+         animation       x       y       ips    angle
+      animations    2636 bytes (3 anims) (3 frames) [0:01]
+      sequences      900 bytes (3 seq) 
+      ik/pose        692 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       212 bytes
+      keyvalues        0 bytes
+      bone transforms     8632 bytes
+      bone flex driver       0 bytes
+      Collision model volume 6729.50 in^3
+      collision        0 bytes
+      total        31204
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/chunin_confirme_femme_suna_guerre.vvd:
+      vertices   1109664 bytes (23118 vertices)
+      tangents    369888 bytes (23118 vertices)
+      total      1479616 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/chunin_confirme_femme_suna_guerre.dx90.vtx":
+      body parts:         8 bytes
+      models:            68 bytes
+      model LODs:        60 bytes
+      meshes:           135 bytes
+      strip groups:     495 bytes
+      strips:           525 bytes
+      verts:         516177 bytes
+      indices:       569802 bytes
+      bone changes:    1496 bytes
+      everything:   1088742 bytes
+      
+      Completed "chunin_confirme_femme_suna_guerre.qc"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\chunin_confirme_femme_suna_guerre.dx90.vtx" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\chunin_confirme_femme_suna_guerre.mdl" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\chunin_confirme_femme_suna_guerre.phy" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\chunin_confirme_femme_suna_guerre.vvd" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+  ... Compiling "chunin_confirme_femme_suna_guerre\chunin_confirme_femme_suna_guerre.qc" finished. Check above for any errors.
+
+  Compiling "f_chunin_senju\f_chunin_senju.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\rodzl\desktop\travail\tkj_femme_suna\f_chunin_senju\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\"
+      g_path:  "f_chunin_senju.qc"
+      Building binary model files...
+      Working on "f_chunin_senju.qc"
+      SMD MODEL f_chunin_senju.smd
+      SMD MODEL f_chunin_senju_1.smd
+      SMD MODEL f_chunin_senju_2.smd
+      SMD MODEL f_chunin_senju_3.smd
+      Processing $shadowlod
+      SMD MODEL anims/reference_female.smd
+      SMD MODEL anims/proportions.smd
+      SMD MODEL ../physics.smd
+      WARNING: model has too many verts, cutting into multiple models
+      Processing LOD for material: bas_fille_senju
+      Lod 1: vertexes: 4226 (193 new)
+      Lod 2: vertexes: 4542 (316 new)
+      Lod 3: vertexes: 6538 (1996 new)
+      Processing LOD for material: mat_skin
+      Lod 1: vertexes: 9967 (6 new)
+      Lod 2: vertexes: 11303 (1336 new)
+      Lod 3: vertexes: 13527 (2224 new)
+      Processing LOD for material: chunin_fille_senju_logo
+      Lod 1: vertexes: 16950 (62 new)
+      Lod 2: vertexes: 17050 (100 new)
+      Lod 3: vertexes: 18039 (989 new)
+      Processing LOD for material: chunin_fille_senju
+      Lod 1: vertexes: 57088 (28023 new)
+      Lod 2: vertexes: 66337 (9249 new)
+      Lod 3: vertexes: 82567 (16230 new)
+      Processing LOD for material: bas_fille_senju
+      Processing LOD for material: mat_skin
+      Processing LOD for material: chunin_fille_senju_logo
+      Processing LOD for material: chunin_fille_senju
+      Lod 2: vertexes: 23402 (1559 new)
+      Lod 3: vertexes: 35805 (12403 new)
+      Processing LOD for material: bas_fille_senju
+      Processing LOD for material: mat_skin
+      Processing LOD for material: chunin_fille_senju_logo
+      Processing LOD for material: chunin_fille_senju
+      Lod 2: vertexes: 12597 (270 new)
+      Lod 3: vertexes: 21919 (9322 new)
+      Processing jointed collision model
+      ValveBiped.Bip01_Pelvis  ( 88 verts, 1 convex elements) volume: 589.58
+      ValveBiped.Bip01_L_Thigh ( 56 verts, 1 convex elements) volume: 703.09
+      ValveBiped.Bip01_L_Calf  ( 65 verts, 1 convex elements) volume: 399.90
+      ValveBiped.Bip01_L_Foot  ( 49 verts, 1 convex elements) volume: 119.04
+      ValveBiped.Bip01_R_Thigh ( 54 verts, 1 convex elements) volume: 696.89
+      ValveBiped.Bip01_R_Calf  ( 59 verts, 1 convex elements) volume: 388.63
+      ValveBiped.Bip01_R_Foot  ( 47 verts, 1 convex elements) volume: 135.57
+      ValveBiped.Bip01_Spine2  (110 verts, 1 convex elements) volume: 1100.68
+      WARNING: PERFORMANCE (): Collision model will not support the fastest tracing code
+      ValveBiped.Bip01_Spine4  (145 verts, 1 convex elements) volume: 1659.36
+      ValveBiped.Bip01_Head1   ( 66 verts, 1 convex elements) volume: 242.72
+      ValveBiped.Bip01_L_Clavicle ( 29 verts, 1 convex elements) volume: 31.42
+      ValveBiped.Bip01_L_UpperArm ( 59 verts, 1 convex elements) volume: 143.08
+      ValveBiped.Bip01_L_Forearm ( 58 verts, 1 convex elements) volume: 148.17
+      ValveBiped.Bip01_L_Hand  ( 28 verts, 1 convex elements) volume: 27.51
+      ValveBiped.Bip01_R_Clavicle ( 29 verts, 1 convex elements) volume: 30.95
+      ValveBiped.Bip01_R_UpperArm ( 71 verts, 1 convex elements) volume: 135.39
+      ValveBiped.Bip01_R_Forearm ( 57 verts, 1 convex elements) volume: 150.08
+      ValveBiped.Bip01_R_Hand  ( 27 verts, 1 convex elements) volume: 27.42
+      Collision model completed.
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/f_chunin_senju.mdl:
+      bones        21508 bytes (75)
+         animation       x       y       ips    angle
+      animations    2684 bytes (3 anims) (3 frames) [0:01]
+      sequences      948 bytes (3 seq) 
+      ik/pose       1020 bytes
+      ERROR: Too many verts in model. (82567 verts, MAXSTUDIOVERTS==65536)
+      ERROR: Aborted Processing on 'atg_playermodel/tenues/f_chunin_senju.mdl'
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\f_chunin_senju.mdl" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+  ... Compiling "f_chunin_senju\f_chunin_senju.qc" finished. Check above for any errors.

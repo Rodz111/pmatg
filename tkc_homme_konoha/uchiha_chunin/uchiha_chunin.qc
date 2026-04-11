@@ -191,7 +191,7 @@ $ikautoplaylock "lfoot" 1 0.1
 $ikautoplaylock "rhand" 0 0
 $ikautoplaylock "lhand" 0 0
 
-$sequence reference "anims/reference_female" fps 1
+$sequence reference "anims/reference_male" fps 1
 
 $animation a_proportions "anims/proportions" subtract reference 0
 
@@ -205,7 +205,7 @@ $Sequence "ragdoll" {
 	fps 30
 }
 
-$includemodel "f_anm.mdl"
+$includemodel "m_anm.mdl"
 
 $collisionjoints "../physics.smd"
 {

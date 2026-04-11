@@ -1,0 +1,96 @@
+// Created by Crowbar 0.74
+
+  Compiling "kage_uzumaki_kenro.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\rodzl\desktop\travail\uzumaki_homme_konoha\kage_uzumaki_kenro\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\"
+      g_path:  "kage_uzumaki_kenro.qc"
+      Building binary model files...
+      Working on "kage_uzumaki_kenro.qc"
+      SMD MODEL kage_uzumaki_kenro.smd
+      SMD MODEL kage_uzumaki_kenro_1.smd
+      SMD MODEL kage_uzumaki_kenro_2.smd
+      SMD MODEL kage_uzumaki_kenro_3.smd
+      Processing $shadowlod
+      SMD MODEL anims/reference_male.smd
+      SMD MODEL anims/proportions.smd
+      SMD MODEL ../physics.smd
+      WARNING: model has too many verts, cutting into multiple models
+      Processing LOD for material: logo_troiseme_hokage
+      Lod 1: vertexes: 20308 (146 new)
+      Lod 2: vertexes: 21051 (743 new)
+      Lod 3: vertexes: 24329 (3278 new)
+      Processing LOD for material: logo_hyuga_cmd
+      Lod 1: vertexes: 26687 (677 new)
+      Lod 2: vertexes: 26693 (6 new)
+      Lod 3: vertexes: 27049 (356 new)
+      Processing LOD for material: tenue_hyuga_arion
+      Lod 1: vertexes: 50555 (23506 new)
+      Lod 2: vertexes: 61789 (11234 new)
+      Lod 3: vertexes: 71060 (9271 new)
+      Processing LOD for material: mat_skin
+      Lod 1: vertexes: 72963 (1903 new)
+      Lod 2: vertexes: 73822 (859 new)
+      Lod 3: vertexes: 75012 (1190 new)
+      Processing LOD for material: chaine_troisieme_kage
+      Lod 1: vertexes: 77048 (2036 new)
+      Lod 2: vertexes: 77115 (67 new)
+      Lod 3: vertexes: 77648 (533 new)
+      Processing LOD for material: logo_troiseme_hokage
+      Processing LOD for material: logo_hyuga_cmd
+      Lod 2: vertexes: 2326 (224 new)
+      Lod 3: vertexes: 2831 (505 new)
+      Processing LOD for material: tenue_hyuga_arion
+      Lod 2: vertexes: 37210 (14638 new)
+      Lod 3: vertexes: 56943 (19733 new)
+      Processing LOD for material: mat_skin
+      Processing LOD for material: chaine_troisieme_kage
+      Processing LOD for material: logo_troiseme_hokage
+      Processing LOD for material: logo_hyuga_cmd
+      Processing LOD for material: tenue_hyuga_arion
+      Lod 2: vertexes: 26401 (8106 new)
+      Lod 3: vertexes: 42927 (16526 new)
+      Processing LOD for material: mat_skin
+      Lod 2: vertexes: 46081 (1176 new)
+      Lod 3: vertexes: 48048 (1967 new)
+      Processing LOD for material: chaine_troisieme_kage
+      Lod 3: vertexes: 50031 (413 new)
+      Processing LOD for material: logo_troiseme_hokage
+      Processing LOD for material: logo_hyuga_cmd
+      Processing LOD for material: tenue_hyuga_arion
+      Processing LOD for material: mat_skin
+      Processing LOD for material: chaine_troisieme_kage
+      Lod 3: vertexes: 2684 (614 new)
+      Processing jointed collision model
+      ValveBiped.Bip01_Pelvis  ( 88 verts, 1 convex elements) volume: 589.58
+      ValveBiped.Bip01_L_Thigh ( 56 verts, 1 convex elements) volume: 703.15
+      ValveBiped.Bip01_L_Calf  ( 65 verts, 1 convex elements) volume: 399.90
+      ValveBiped.Bip01_L_Foot  ( 49 verts, 1 convex elements) volume: 119.04
+      ValveBiped.Bip01_R_Thigh ( 54 verts, 1 convex elements) volume: 696.89
+      ValveBiped.Bip01_R_Calf  ( 59 verts, 1 convex elements) volume: 388.64
+      ValveBiped.Bip01_R_Foot  ( 47 verts, 1 convex elements) volume: 135.57
+      ValveBiped.Bip01_Spine2  (110 verts, 1 convex elements) volume: 1100.68
+      WARNING: PERFORMANCE (): Collision model will not support the fastest tracing code
+      ValveBiped.Bip01_Spine4  (145 verts, 1 convex elements) volume: 1659.36
+      ValveBiped.Bip01_Head1   ( 66 verts, 1 convex elements) volume: 242.72
+      ValveBiped.Bip01_L_Clavicle ( 29 verts, 1 convex elements) volume: 31.42
+      ValveBiped.Bip01_L_UpperArm ( 59 verts, 1 convex elements) volume: 143.08
+      ValveBiped.Bip01_L_Forearm ( 58 verts, 1 convex elements) volume: 148.17
+      ValveBiped.Bip01_L_Hand  ( 28 verts, 1 convex elements) volume: 27.51
+      ValveBiped.Bip01_R_Clavicle ( 29 verts, 1 convex elements) volume: 30.95
+      ValveBiped.Bip01_R_UpperArm ( 71 verts, 1 convex elements) volume: 135.39
+      ValveBiped.Bip01_R_Forearm ( 57 verts, 1 convex elements) volume: 150.08
+      ValveBiped.Bip01_R_Hand  ( 27 verts, 1 convex elements) volume: 27.42
+      Collision model completed.
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/kage_uzumaki_kenro.mdl:
+      bones        17492 bytes (59)
+         animation       x       y       ips    angle
+      animations    2620 bytes (3 anims) (3 frames) [0:01]
+      sequences      884 bytes (3 seq) 
+      ik/pose       1184 bytes
+      ERROR: Too many verts in model. (77648 verts, MAXSTUDIOVERTS==65536)
+      ERROR: Aborted Processing on 'atg_playermodel/tenues/kage_uzumaki_kenro.mdl'
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\kage_uzumaki_kenro.mdl" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Deleted empty temporary compile folder "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models".
+  ... Compiling "kage_uzumaki_kenro.qc" finished. Check above for any errors.

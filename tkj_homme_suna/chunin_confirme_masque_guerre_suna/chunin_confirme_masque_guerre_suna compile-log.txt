@@ -1,0 +1,100 @@
+// Created by Crowbar 0.74
+
+  Compiling "chunin_confirme_masque_guerre_suna.qc" ...
+    Output from compiler "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\bin\studiomdl.exe": 
+      qdir:    "c:\users\rodzl\desktop\travail\tkj_homme_suna\chunin_confirme_masque_guerre_suna\"
+      gamedir: "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\"
+      g_path:  "chunin_confirme_masque_guerre_suna.qc"
+      Building binary model files...
+      Working on "chunin_confirme_masque_guerre_suna.qc"
+      SMD MODEL chunin_confirme_masque_guerre_suna.smd
+      SMD MODEL chunin_confirme_masque_guerre_suna_1.smd
+      SMD MODEL chunin_confirme_masque_guerre_suna_2.smd
+      SMD MODEL chunin_confirme_masque_guerre_suna_3.smd
+      Processing $shadowlod
+      SMD MODEL anims/reference_male.smd
+      SMD MODEL anims/proportions.smd
+      SMD MODEL ../physics.smd
+      WARNING: model has too many verts, cutting into multiple models
+      Processing LOD for material: chunin_confirme_masque_konoha
+      Lod 1: vertexes: 8006 (34 new)
+      Lod 2: vertexes: 8181 (175 new)
+      Lod 3: vertexes: 9036 (855 new)
+      Processing LOD for material: mat_skin
+      Lod 3: vertexes: 12015 (500 new)
+      Processing LOD for material: chunin_confirme_masque_guerre_suna
+      Lod 1: vertexes: 23446 (39 new)
+      Lod 2: vertexes: 23987 (541 new)
+      Lod 3: vertexes: 27642 (3655 new)
+      Processing LOD for material: logo_suna_guerre
+      Processing LOD for material: chunin_confirme_masque_konoha
+      Processing LOD for material: mat_skin
+      Processing LOD for material: chunin_confirme_masque_guerre_suna
+      Lod 2: vertexes: 10128 (818 new)
+      Lod 3: vertexes: 15397 (5269 new)
+      Processing LOD for material: logo_suna_guerre
+      Processing jointed collision model
+      ValveBiped.Bip01_Pelvis  ( 88 verts, 1 convex elements) volume: 589.58
+      ValveBiped.Bip01_L_Thigh ( 56 verts, 1 convex elements) volume: 703.09
+      ValveBiped.Bip01_L_Calf  ( 65 verts, 1 convex elements) volume: 399.90
+      ValveBiped.Bip01_L_Foot  ( 49 verts, 1 convex elements) volume: 119.04
+      ValveBiped.Bip01_R_Thigh ( 54 verts, 1 convex elements) volume: 696.89
+      ValveBiped.Bip01_R_Calf  ( 59 verts, 1 convex elements) volume: 388.63
+      ValveBiped.Bip01_R_Foot  ( 47 verts, 1 convex elements) volume: 135.57
+      ValveBiped.Bip01_Spine2  (110 verts, 1 convex elements) volume: 1100.68
+      WARNING: PERFORMANCE (): Collision model will not support the fastest tracing code
+      ValveBiped.Bip01_Spine4  (145 verts, 1 convex elements) volume: 1659.36
+      ValveBiped.Bip01_Head1   ( 66 verts, 1 convex elements) volume: 242.68
+      ValveBiped.Bip01_L_Clavicle ( 29 verts, 1 convex elements) volume: 31.42
+      ValveBiped.Bip01_L_UpperArm ( 59 verts, 1 convex elements) volume: 143.08
+      ValveBiped.Bip01_L_Forearm ( 58 verts, 1 convex elements) volume: 148.17
+      ValveBiped.Bip01_L_Hand  ( 28 verts, 1 convex elements) volume: 27.51
+      ValveBiped.Bip01_R_Clavicle ( 29 verts, 1 convex elements) volume: 30.95
+      ValveBiped.Bip01_R_UpperArm ( 71 verts, 1 convex elements) volume: 135.39
+      ValveBiped.Bip01_R_Forearm ( 57 verts, 1 convex elements) volume: 150.08
+      ValveBiped.Bip01_R_Hand  ( 27 verts, 1 convex elements) volume: 27.42
+      Collision model completed.
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/chunin_confirme_masque_guerre_suna.mdl:
+      bones        21508 bytes (75)
+         animation       x       y       ips    angle
+      animations    2636 bytes (3 anims) (3 frames) [0:01]
+      sequences      948 bytes (3 seq) 
+      ik/pose        856 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       276 bytes
+      keyvalues        0 bytes
+      bone transforms    10264 bytes
+      bone flex driver       0 bytes
+      Collision model volume 6729.45 in^3
+      collision        0 bytes
+      total        39572
+      ---------------------
+      writing D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/chunin_confirme_masque_guerre_suna.vvd:
+      vertices   1326816 bytes (27642 vertices)
+      vertices    741216 bytes (15442 vertices)
+      tangents    442272 bytes (27642 vertices)
+      tangents    247072 bytes (15442 vertices)
+      total      2757440 bytes
+      ---------------------
+      Generating optimized mesh "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models/atg_playermodel/tenues/chunin_confirme_masque_guerre_suna.dx90.vtx":
+      body parts:        16 bytes
+      models:           136 bytes
+      model LODs:       120 bytes
+      meshes:           360 bytes
+      strip groups:     825 bytes
+      strips:           910 bytes
+      verts:         952812 bytes
+      indices:      1082922 bytes
+      bone changes:    3816 bytes
+      everything:   2041833 bytes
+      
+      Completed "chunin_confirme_masque_guerre_suna.qc"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\chunin_confirme_masque_guerre_suna.dx90.vtx" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\chunin_confirme_masque_guerre_suna.mdl" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\chunin_confirme_masque_guerre_suna.phy" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+    CROWBAR: Moved compiled model file "D:\SteamLibrary\steamapps\common\SourceFilmmaker\game\usermod\models\atg_playermodel\tenues\chunin_confirme_masque_guerre_suna.vvd" to "D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\ATG_playermodels\models\atg_playermodel\tenues"
+  ... Compiling "chunin_confirme_masque_guerre_suna.qc" finished. Check above for any errors.
